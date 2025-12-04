@@ -127,8 +127,6 @@
 - **Opioids only if pain >6/10 and refractory**
 
 ---
-
-## Documentation Template (Copy-Paste into Record)
 ## Documentation Template (Copy-Paste into Anesthesia Record)
 
 ```text
