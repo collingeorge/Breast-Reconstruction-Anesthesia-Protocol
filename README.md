@@ -83,19 +83,21 @@ Post-mastectomy implant revision with:
 
 # **Repository Structure**
 
+```plaintext
 Breast-Reconstruction-Augmentation-Protocol/
 ├── README.md
 ├── 01_PreOp_Assessment_and_Checklist.md
 ├── 02_Patient_Counseling_Script.md
 ├── 03_Anesthesia_Protocols/
-│ ├── README.md
-│ ├── Protocol_1_OFIA_With_PECS_Block.md
-│ ├── Protocol_2_OFIA_BlockFree.md
-│ ├── Protocol_3_OpioidBased_NoBlocks.md
-│ └── Protocol_Comparison_Table.md
+│   ├── README.md
+│   ├── Protocol_1_OFIA_With_PECS_Block.md
+│   ├── Protocol_2_OFIA_BlockFree.md
+│   ├── Protocol_3_OpioidBased_NoBlocks.md
+│   └── Protocol_Comparison_Table.md
 ├── 04_Surgical_Workflow_and_Timeline.md
 ├── 05_PACU_and_Discharge_Instructions.md
 └── 06_References_Evidence_Breast_Augmentation.md
+```
 
 ---
 
