@@ -8,6 +8,10 @@
 
 ---
 
+> **Disclaimer:**  
+> This repository is an educational resource only.  
+> It is *not* a clinical guideline and must be adapted to local attending physician judgment, institutional policy, and national standards (ASA, ASPS, ERAS, ASRA).
+
 # **At a Glance**
 
 **What:**  
