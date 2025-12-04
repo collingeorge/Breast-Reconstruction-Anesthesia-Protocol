@@ -196,8 +196,9 @@ All information is presented under **Creative Commons BY 4.0** for academic use.
 
 # **Author**
 
-**Collin B. George**  
-Clinical trainee • Anesthesia & Surgical Systems Research  
-University of Washington Medicine  
+- **Author:** Collin B. George, BS
+- **Affiliation:** Independent Clinical Researcher & Medical School Applicant
+- (University of Washington; research not affiliated with or endorsed by UW Medicine)
+- **Initial Publication Date:** December 03, 2025
 GitHub: *github.com/collingeorge*  
 License: CC BY 4.0  
