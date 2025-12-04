@@ -65,6 +65,25 @@ Standardized, opioid-sparing recovery pathway emphasizing early mobilization, PO
 | 3    | Droperidol 0.625 mg IV (monitor QTc)      |
 | High-risk patients | Continue scopolamine patch ×72 h<br>Minimize opioids<br>Encourage hydration |
 
+## PACU Documentation Template (Copy-Paste into EMR)
+
+```text
+PACU Arrival Time: ________   Pain on arrival: ___ /10
+Anesthesia Pathway: [ ] Protocol 1 (OFA + block)   [ ] Protocol 2 (OFA no block)   [ ] Protocol 3 (opioid-based)
+Regional Block: [ ] Yes (type: __________)   [ ] No
+Airway: [ ] LMA   [ ] ETT
+Drains: [ ] None   [ ] JP/Blake × ___ (initial output ___ mL)
+PONV prophylaxis given intra-op: _______________________________
+PACU Pain regimen: Acetaminophen ___ mg   NSAID ___ mg   Ice packs   Gabapentin ___
+Rescue opioids given: [ ] None   [ ] Oxycodone ___ mg   [ ] Hydromorphone ___ mg IV
+PONV treatment: [ ] None   [ ] Ondansetron   [ ] Promethazine   [ ] Other ________
+Discharge pain score: ___ /10
+Discharge destination: [ ] Home same-day   [ ] 23-hour observation
+Drain teaching performed & return demonstrated: [ ] Yes   [ ] N/A
+Patient/caregiver verbalized understanding of instructions: [ ] Yes
+Responsible adult escort confirmed: [ ] Yes
+```
+
 ---
 
 ## Drain Care Education (If Drains Placed)
