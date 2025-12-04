@@ -115,6 +115,7 @@
 2. Stop lidocaine infusion  
 3. Sugammadex (if rocuronium used) or neostigmine  
 4. Extubate awake / remove LMA when following commands  
+
 → Expect **calm, comfortable wake-up** with pain ≤3/10
 
 ---
@@ -127,6 +128,7 @@
 - **Opioids only if pain >6/10 and refractory**
 
 ---
+
 ## Documentation Template (Copy-Paste into Anesthesia Record)
 
 ```text
