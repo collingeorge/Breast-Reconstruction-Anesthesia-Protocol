@@ -121,3 +121,6 @@ PONV prophylaxis: Ondansetron 4 mg, Dexamethasone 8 mg, [ ] Scopolamine, [ ] Dro
 Pain on PACU arrival: __/10
 Complications: None / ____________________________________
 ```
+---
+
+**End of Protocol 1** — *Educational resource only. Adapt to institutional and attending preferences.*
