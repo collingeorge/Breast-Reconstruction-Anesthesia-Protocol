@@ -1,203 +1,148 @@
-# Protocol 1 — Opioid-Free General Anesthesia + PECS/Serratus Block  
+# Protocol 1 — Opioid-Free GA + PECS/Serratus Blocks  
 ### Post-Mastectomy Breast Implant Revision  
-**Version 1.0 — December 2025**
+**Preferred Pathway** • Version 1.0 — December 2025  
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-# **Purpose**
-This protocol outlines a complete **opioid-free general anesthesia (OFIA)** pathway using **PECS I + II** or **Serratus anterior plane** regional blocks for breast implant revision.  
-This is the **preferred** pathway for maximizing analgesia, minimizing PONV, and improving patient comfort.
+## Why This Is the Preferred Pathway
+- Highest-quality analgesia (blocks + multimodal IV)  
+- Lowest PONV risk (typically <5%)  
+- Zero intraoperative opioids  
+- Smooth, calm emergence  
+- Ideal for capsular contracture, infection washout, anxious patients, or high Apfel scores  
 
 ---
 
-# **1. Indications**
-- Post-mastectomy implant revision  
-- Capsular contracture (Grade III–IV)  
-- Suspected infection requiring washout  
-- High anxiety or anticipated postoperative pain  
-- High PONV risk (Apfel ≥ 3)  
-- Patient preference for opioid-free anesthesia  
-- Surgeon performing extensive pocket revision  
+## Indications
+- Post-mastectomy implant revision (any etiology)  
+- Baker Grade III–IV capsular contracture  
+- Suspected/confirmed implant infection  
+- High PONV risk (Apfel ≥3)  
+- Patient request for opioid-free care  
+- Extensive pocket work anticipated  
 
 ---
 
-# **2. Contraindications**
-### **Absolute**
-- Local infection at block site  
-- True local anesthetic allergy  
-- Patient refusal  
+## Contraindications
 
-### **Relative**
-- Therapeutic anticoagulation  
-- Severe respiratory compromise  
-- Baseline bradycardia (caution with dexmedetomidine)  
-- Significant hepatic disease (adjust lidocaine infusion)  
+| Absolute                  | Relative                                      |
+|---------------------------|-----------------------------------------------|
+| Local infection at site   | Therapeutic anticoagulation (discuss risk)    |
+| True local anesthetic allergy | Severe COPD / CO₂ retention                |
+| Patient refusal           | Baseline HR <50 (avoid dexmedetomidine bolus) |
+|                           | Significant hepatic dysfunction (lidocaine)  |
 
 ---
 
-# **3. Required Equipment**
-- High-frequency linear ultrasound  
-- Sterile ultrasound probe cover  
-- 80–100 mm block needle  
-- 0.25–0.5% bupivacaine OR 0.2–0.375% ropivacaine  
-- Dexamethasone (2–4 mg) for block prolongation  
-- Non-invasive cardiac and neuromuscular monitoring  
-- Standard GA airway equipment (LMA or ETT)  
+## Required Equipment
+- High-frequency linear ultrasound + sterile sleeve  
+- 22G 80–100 mm block needle  
+- Local anesthetic: **0.25–0.5% bupivacaine** or **0.2–0.375% ropivacaine**  
+- Dexamethasone 4 mg (add to block for prolongation)  
+- Standard ASA monitors + processed EEG (optional)  
 
 ---
 
-# **4. Preoperative Preparation**
-**Premedication:**  
-- Acetaminophen 1000 mg PO  
-- Celecoxib 200–400 mg PO (if no renal/GI contraindication)  
-- Gabapentin 300 mg PO (optional)
+## Preoperative Preparation
 
-**IV Access:**  
-- One 20G or 18G peripheral IV
-
-**Antibiotics:**  
-- Cefazolin 2–3 g IV (or Clindamycin/Vancomycin if allergic)
-
-**Monitoring:**  
-- Standard ASA monitors  
-- Consider arterial line only for severe cardiovascular disease (rare)
+| Medication                  | Dose                           | Notes                                      |
+|-----------------------------|--------------------------------|--------------------------------------------|
+| Acetaminophen               | 1000 mg PO                     |                                             |
+| Celecoxib                   | 200–400 mg PO                  | If no renal/GI contraindications           |
+| Gabapentin (optional)       | 300–600 mg PO                  | Reduces anxiety & postoperative pain       |
+| Midazolam (optional)        | 1–2 mg IV in block room        | Only if very anxious                       |
+| Antibiotic prophylaxis      | Cefazolin 2–3 g IV (or alternative) | <60 min pre-incision                 |
 
 ---
 
-# **5. Regional Block (PECS I + PECS II or Serratus)**
-### **5.1 PECS I Block**
-**Targets:**  
-Medial & lateral pectoral nerves → analgesia over pectoralis major/minor.
+## Regional Block Technique (Perform Before Induction)
 
-**Technique:**  
-- Ultrasound identify pectoralis major/minor  
-- Inject 10 mL local anesthetic between the two muscles
+### PECS I + II (Most Common)
 
----
+| Block      | Target Interface                              | Volume         | Structures Covered                     |
+|------------|-----------------------------------------------|----------------|----------------------------------------|
+| PECS I     | Between pectoralis major & minor              | 10 mL          | Medial/lateral pectoral nerves         |
+| PECS II    | Between pectoralis minor & serratus anterior  | 20 mL          | T2–T6 lateral + long thoracic nerve    |
 
-### **5.2 PECS II Block**
-**Targets:**  
-Intercostobrachial, 3rd–6th intercostal nerves, long thoracic nerve.
+### Serratus Anterior Plane Block (Alternative)
+- Injection plane: superficial or deep to serratus at mid-axillary line (T4–T6 level)  
+- Volume: **25–30 mL**  
+- Excellent for lateral chest wall / axillary tail coverage
 
-**Technique:**  
-- Ultrasound identify pectoralis minor and serratus anterior  
-- Inject 15–20 mL between pectoralis minor and serratus
+**Add-on:** Dexamethasone 4 mg to each block → extends duration 8–12 hours
 
 ---
 
-### **5.3 Serratus Plane Block (Alternative)**
-**Targets:**  
-Thoracic intercostal nerves → lateral wall coverage.
+## Induction Sequence (Opioid-Free)
 
-**Technique:**  
-- Inject 20–30 mL superficial or deep to serratus anterior
-
----
-
-# **6. Induction (Opioid-Free)**
-**Recommended sequence:**
-
-1. **Midazolam** 1–2 mg IV (optional)  
-2. **Lidocaine** 1–1.5 mg/kg IV bolus  
-3. **Propofol** 1.5–2 mg/kg IV  
-4. **Ketamine** 0.2–0.3 mg/kg IV   
-   *Provides analgesia & reduces propofol requirement.*  
-5. **Rocuronium** 0.6–1.0 mg/kg (if using ETT)  
-6. Secure airway with **LMA** or **ETT**  
+| Step | Agent                     | Dose                          | Purpose                              |
+|------|---------------------------|-------------------------------|--------------------------------------|
+| 1    | Lidocaine                 | 1–1.5 mg/kg IV                | Blunts sympathetic response          |
+| 2    | Propofol                  | 1.5–2 mg/kg IV                | Induction                            |
+| 3    | Ketamine                  | 0.2–0.3 mg/kg IV              | Analgesia, hemodynamic stability     |
+| 4    | Rocuronium                | 0.6–1.0 mg/kg (if ETT)        | Muscle relaxation                    |
+| 5    | Airway                    | LMA (preferred) or ETT        |                                      |
 
 ---
 
-# **7. Maintenance**
-### **Volatile or TIVA Options**
-- **Sevoflurane** 1–2%  
-**OR**  
-- **Propofol infusion** 75–125 mcg/kg/min
+## Maintenance of Anesthesia
 
-### **Infusions**
-- **Dexmedetomidine** 0.2–0.6 mcg/kg/hr (no bolus recommended)  
-- **Lidocaine infusion** 1 mg/kg/hr (max 2 mg/kg/hr)
+| Component                  | Regimen                                      |
+|----------------------------|----------------------------------------------|
+| Volatile agent             | Sevoflurane 0.8–1.2 MAC **OR**               |
+| TIVA                       | Propofol 75–125 mcg/kg/min                   |
+| Dexmedetomidine            | 0.2–0.6 mcg/kg/hr (**no loading bolus**)     |
+| Lidocaine infusion         | 1–1.5 mg/kg/hr (max 2 mg/kg/hr)              |
+| Ventilation                | TV 6–8 mL/kg IBW, ETCO₂ 32–38 mmHg           |
+| Hemodynamics               | SBP >90, treat hypotension with phenylephrine/ephedrine |
 
-### **Ventilation Targets**
-- VT 6–8 mL/kg IBW  
-- RR adjusted to maintain ETCO₂ 32–38 mmHg  
-- FiO₂ 30–40% unless otherwise indicated  
-
-### **Hemodynamic Goals**
-- SBP > 90 mmHg  
-- HR 55–80 bpm  
-- Treat hypotension with phenylephrine/ephedrine  
-- Avoid high-dose beta-blockers while dexmedetomidine is running
+**Additional analgesia:** Surgeon local infiltration strongly encouraged (0.25% bupivacaine with epinephrine)
 
 ---
 
-# **8. Intraoperative Analgesia Strategy**
-- PECS/Serratus blocks provide primary analgesia  
-- Local infiltration by surgeon (bupivacaine or ropivacaine) strongly encouraged  
-- No intraoperative opioids  
-- Consider repeat ketamine 5–10 mg IV for stimulation moments  
-- Maintain normothermia  
+## PONV Prophylaxis (Give to All Patients)
+- Ondansetron 4 mg IV  
+- Dexamethasone 8 mg IV (at induction)  
+- Scopolamine patch (if high-risk or history of severe PONV)  
+- **No nitrous oxide**
 
 ---
 
-# **9. PONV Prophylaxis**
-Recommended regimen:
-- **Ondansetron** 4 mg IV  
-- **Dexamethasone** 4–8 mg IV  
-- **Scopolamine patch** (optional)  
-- **Avoid nitrous oxide**
-
-OFA + regional = **lowest PONV risk profile**.
-
----
-
-# **10. Emergence**
-**Steps:**
-1. Discontinue dexmedetomidine 10–15 minutes before wake-up  
+## Emergence
+1. Stop dexmedetomidine → 15 min before end  
 2. Stop lidocaine infusion  
-3. Reverse NMB if ETT used  
-4. Remove LMA/ETT when patient follows commands  
-5. Smooth wake-up expected with minimal agitation  
-
-**Pain goals upon emergence:**  
-Target pain score **≤ 3/10**.
+3. Sugammadex (if rocuronium used) or neostigmine  
+4. Extubate awake / remove LMA when following commands  
+→ Expect **calm, comfortable wake-up** with pain ≤3/10
 
 ---
 
-# **11. PACU Handoff Checklist**
-- Type of block performed  
-- Local anesthetic used and total dose  
-- Infusions used (lidocaine/dexmedetomidine)  
-- Airway type (ETT or LMA)  
-- Hemodynamics during case  
-- PONV prophylaxis given  
-- Drains placed  
-- Pain level on arrival  
-- Any complications  
+## PACU Orders (Non-Opioid First)
+- Acetaminophen 1000 mg IV/PO q6h  
+- Ketorolac 15–30 mg IV q6h × 48h (if no contraindication)  
+- Ice packs to chest  
+- Ondansetron 4 mg IV PRN  
+- **Opioids only if pain >6/10 and refractory**
 
 ---
 
-# **12. PACU Orders**
-- Acetaminophen q6h  
-- NSAID (if not contraindicated)  
-- Ice pack to chest  
-- Ondansetron PRN  
-- Gabapentin bedtime (optional)  
-- Avoid opioids unless pain > 4/10  
+## Documentation Template (Copy-Paste into Record)
+## Documentation Template (Copy-Paste into Anesthesia Record)
+
+```text
+Block: [ ] PECS I+II   [ ] Serratus   Local anesthetic: _______________   Total vol: ___ mL
+Additives: [ ] Dexamethasone 4 mg per side
+Infusions: [ ] Dexmedetomidine (rate ____ mcg/kg/hr)   [ ] Lidocaine (rate ____ mg/kg/hr)
+Intraoperative opioids: None
+PONV prophylaxis: Ondansetron 4 mg, Dexamethasone 8 mg, [ ] Scopolamine patch
+Airway: [ ] LMA   [ ] ETT
+Emergence: Smooth, pain score __/10 on arrival to PACU
+```
 
 ---
 
-# **13. Documentation Template**
-**Block performed:** PECS I ☐  PECS II ☐  Serratus ☐  
-**Local anesthetic:** __________________________  
-**Infusions:**  
-- Lidocaine ☐ (dose: ____________)  
-- Dexmedetomidine ☐ (rate: ___________)  
-**Opioids given:** Yes ☐ No ☑  
-**PONV prophylaxis:** _________________________  
-**Airway:** LMA ☐  ETT ☐  
-**Complications:** _____________________________  
+**End of Protocol 1** — *Educational resource only. Adapt to institutional and attending preferences.*
 
 ---
-
-# **End of Protocol 1**
-*Educational reference only. Follow attending guidance and institutional standards.*
