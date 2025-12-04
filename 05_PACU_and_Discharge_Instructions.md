@@ -76,7 +76,7 @@ Regional Block: [ ] Yes (type: __________)   [ ] No
 Airway: [ ] LMA   [ ] ETT
 Drains: [ ] None   [ ] JP/Blake × ___ (initial output ___ mL)
 PONV prophylaxis given intra-op: _______________________________
-PACU Pain regimen: Acetaminophen ___ mg   NSAID ___ mg   Ice packs   Gabapentin ___
+PACU Pain regimen: Acetaminophen ___ mg   NSAID ___ mg   Ice packs   Gabapentin ___ mg
 Rescue opioids given: [ ] None   [ ] Oxycodone ___ mg   [ ] Hydromorphone ___ mg IV
 PONV treatment: [ ] None   [ ] Ondansetron   [ ] Promethazine   [ ] Other ________
 Discharge pain score: ___ /10
