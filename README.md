@@ -14,19 +14,6 @@
 
 # **At a Glance**
 
-## Table of Contents
-- [01 — Preoperative Assessment](01_PreOp_Assessment_and_Checklist.md)
-- [02 — Patient Counseling Script](02_Patient_Counseling_Script.md)
-- [03 — Anesthesia Protocols](03_Anesthesia_Protocols/README.md)
-  - Protocol 1 — OFA + Blocks
-  - Protocol 2 — OFA No Blocks
-  - Protocol 3 — Opioid-Based
-  - Comparison Table
-- [04 — Surgical Workflow & Timeline](04_Surgical_Workflow_and_Timeline.md)
-- [05 — PACU & Discharge Instructions](05_PACU_and_Discharge_Instructions.md)
-- [06 — References & Evidence Base](06_References_Evidence_Breast_Augmentation.md)
-
-
 **What:**  
 A concise, evidence-informed perioperative framework for **post-mastectomy breast implant revision**, including:
 - A complete surgical workflow (explant → washout → pocket revision → implant placement)
@@ -46,6 +33,21 @@ This project standardizes decision-making across surgical and anesthesia teams t
 - Safe, stepwise perioperative management  
 
 This protocol is educational and not a substitute for clinical judgment.
+
+---
+
+## Table of Contents
+- [01 — Preoperative Assessment](01_PreOp_Assessment_and_Checklist.md)
+- [02 — Patient Counseling Script](02_Patient_Counseling_Script.md)
+- [03 — Anesthesia Protocols](03_Anesthesia_Protocols/README.md)
+  - Protocol 1 — OFA + Blocks
+  - Protocol 2 — OFA No Blocks
+  - Protocol 3 — Opioid-Based
+  - Comparison Table
+- [04 — Surgical Workflow & Timeline](04_Surgical_Workflow_and_Timeline.md)
+- [05 — PACU & Discharge Instructions](05_PACU_and_Discharge_Instructions.md)
+- [06 — References & Evidence Base](06_References_Evidence_Breast_Augmentation.md)
+
 
 ---
 
