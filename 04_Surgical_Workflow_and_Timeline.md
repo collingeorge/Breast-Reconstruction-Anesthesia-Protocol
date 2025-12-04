@@ -54,21 +54,24 @@ Standardized, minute-by-minute workflow integrating surgeon, anesthesia, scrub, 
 **Positioning:** Supine, arms abducted <90°, forced-air warming blanket
 
 ### T+10 min Incision
-- Re-open prior inframammary fold scar (3–6 cm)  
+- Re-open prior inframammary fold (IMF) scar (3–6 cm)  
+- **If prior scar is inadequate, a short lateral extension may be created to improve exposure**  
 - Electrocautery dissection to capsule
 
 ### T+20–40 min Explantation & Triple Washout
 1. Carefully enter capsule  
 2. Remove implant → inspect for rupture / biofilm  
-3. Send fluid or implant for culture if infection suspected  
-4. **Triple-washout (standard)**  
+3. **Explantation may be simple (implant removal only) or complex (explant + partial/total capsulectomy)**  
+4. Send fluid or implant for culture if infection suspected  
+5. **Triple-washout (standard)**  
    - Pulse lavage with ≥3 L warm saline  
    - Betadine soak 3–5 min (if no contraindication)  
    - Triple-antibiotic irrigation (cefazolin 2 g + gentamicin 80 mg + bacitracin 50,000 units per liter)
 
 ### T+40–60 min Pocket Revision & Capsulectomy
 - Partial or total capsulectomy (Baker III–IV)  
-- Medial release, lateral pillar plication, inferior pole reinforcement as needed
+- Medial release, lateral pillar plication, inferior pole reinforcement  
+- **ADM reinforcement may be used selectively for lower-pole support (surgeon preference)**
 
 ### T+60–75 min Sizer → Final Implant
 - Insert sizer with sterile technique  
@@ -97,6 +100,8 @@ Standardized, minute-by-minute workflow integrating surgeon, anesthesia, scrub, 
 ## Core Instrumentation (Quick Reference for Scrub Team)
 - Standard mastectomy/reconstruction tray  
 - Lighted breast retractors  
+- Long Metzenbaum scissors  
+- Adson & Debakey tissue forceps  
 - Montgomery or narrow Deaver retractors  
 - Long insulated electrocautery tips  
 - Pulse lavage system  
