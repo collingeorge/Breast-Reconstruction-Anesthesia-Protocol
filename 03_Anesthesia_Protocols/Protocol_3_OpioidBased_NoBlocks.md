@@ -33,7 +33,7 @@ The reliable, universally accepted “classic” GA technique. Select when:
 | Medication             | Dose                          | Notes                                      |
 |------------------------|-------------------------------|--------------------------------------------|
 | Acetaminophen          | 1000 mg PO                    | Always give                                |
-| Midazolam (optional)   | 1–2 mg IV                     | Use liberally in needle-phobic patients    |
+| Midazolam (optional)   | 1–2 mg IV                     | Anxiety, memory inhibitor. Use liberally in needle-phobic patients    |
 | Celecoxib              | 200–400 mg PO                 | If no renal/GI contraindications           |
 | Gabapentin (optional)  | 300–600 mg PO                 | Helpful for anxiety & neuropathic pain     |
 | Antibiotic prophylaxis | Cefazolin 2–3 g IV            | Or vancomycin/clindamycin if allergic      |
