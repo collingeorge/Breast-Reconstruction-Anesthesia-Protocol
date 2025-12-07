@@ -37,6 +37,7 @@ This protocol is educational and not a substitute for clinical judgment.
 ---
 
 ## Table of Contents
+- [OR_Checklist_Pre-Induction.md](OR_Checklist_Pre-Induction.md)
 - [01 — Preoperative Assessment](01_PreOp_Assessment_and_Checklist.md)
 - [02 — Patient Counseling Script](02_Patient_Counseling_Script.md)
 - [03 — Anesthesia Protocols](03_Anesthesia_Protocols/README.md)
