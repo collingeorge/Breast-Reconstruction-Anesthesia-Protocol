@@ -2,6 +2,14 @@
 
 ---
 
+![Status](https://img.shields.io/badge/Status-Educational%20Portfolio-orange)
+![Project Type](https://img.shields.io/badge/Project-Pre--Medical-blue)
+![Version](https://img.shields.io/badge/Version-1.0-green)
+![Last Updated](https://img.shields.io/badge/Updated-December%202025-lightgrey)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
 ## Educational Use Only
 
 This repository contains educational materials developed for medical school application portfolio purposes and is not intended for clinical application.
