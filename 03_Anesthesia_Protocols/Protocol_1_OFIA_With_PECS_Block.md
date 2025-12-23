@@ -1266,4 +1266,4 @@ This protocol synthesizes published literature on PECS blocks, opioid-free anest
 
 ---
 
-**End of Protocol 1**
+**End of Protocol 1** — *Educational resource only. Adapt to institutional and attending preferences.*
