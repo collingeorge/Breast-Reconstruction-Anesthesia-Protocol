@@ -244,11 +244,24 @@ All information is presented under **Creative Commons BY 4.0** for academic use.
 
 ---
 
-# **Author**
+## **Repository 3: Breast-Reconstruction-Anesthesia-Protocol**
 
-- **Author:** Collin B. George, BS
-- **Affiliation:** Independent Clinical Researcher & Medical School Applicant
-- (University of Washington; research not affiliated with or endorsed by UW Medicine)
-- **Initial Publication Date:** December 03, 2025
-GitHub: *github.com/collingeorge*  
-License: CC BY 4.0  
+## Author Information
+
+**Author:** Collin B. George, BS  
+**Project Type:** Independent pre-medical research project  
+**Initial Publication Date:** December 03, 2025  
+
+### Important Disclaimers
+
+* This is an independent educational project, NOT an official University of Washington document
+* Not affiliated with, endorsed by, or approved by UW Medicine or any clinical institution
+* Literature-based synthesis for medical school application portfolio purposes
+* Not intended for clinical use without appropriate institutional review and approval
+
+### Acknowledgments
+
+The author is grateful to University of Washington faculty for mentorship and guidance that informed this educational work.
+
+**GitHub:** [github.com/collingeorge](https://github.com/collingeorge)  
+**License:** CC BY 4.0
