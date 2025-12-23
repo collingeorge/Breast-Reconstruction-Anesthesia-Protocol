@@ -8,9 +8,38 @@
 
 ---
 
-> **Disclaimer:**  
-> This repository is an educational resource only.  
-> It is *not* a clinical guideline and must be adapted to local attending physician judgment, institutional policy, and national standards (ASA, ASPS, ERAS, ASRA).
+## Educational Use Only
+
+This repository contains educational materials developed for medical school application portfolio purposes and is not intended for clinical application.
+
+**This is not:**
+- Medical advice or clinical guidance
+- An institutional guideline, policy, or order set
+- Approved for clinical implementation
+- A substitute for attending anesthesiologist judgment
+
+**This is:**
+- Independent pre-medical educational project
+- Literature synthesis for learning demonstration
+- Medical school application portfolio material
+
+---
+
+## Disclaimers
+
+**Institutional Affiliation:**  
+This is an independent educational project. It is not an official University of Washington or UW Medicine document and is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff.
+
+**Clinical Use:**  
+Any clinical consideration requires institutional review, governance approval, and attending anesthesiologist supervision. All medication dosing must be individualized to patient-specific factors and local protocols. Institutional policies supersede all content.
+
+**Liability:**  
+This work is provided "as is" without warranty of any kind. Users assume full responsibility for any use of these materials.
+
+**Author Status:**  
+Pre-medical student. Not a licensed healthcare professional.
+
+---
 
 # **At a Glance**
 
