@@ -952,6 +952,13 @@
 
 **Highest Risk Period:** First 2-4 hours PACU
 
+**Incidence Note:**  
+Respiratory depression rates vary by definition and monitoring intensity:
+- Clinically significant events (RR <8, apnea, naloxone use): 1-5% in PACU
+- Definition-dependent: includes desaturation <90%, bradypnea, oversedation requiring intervention
+- Risk increased with: OSA, elderly, opioid-naïve, high total exposure, concurrent sedatives
+- Institutional QI benchmarks should guide local outcome monitoring
+
 **Risk Factors:**
 - Elderly (>70 years)
 - OSA
@@ -981,7 +988,12 @@
 
 **Protocol 3 Has Highest PONV Risk:**
 - Opioids are highly emetogenic
-- Even with aggressive prophylaxis, 15-25% incidence
+- Baseline incidence without prophylaxis: 20-40% (definition: vomiting or rescue antiemetic use)
+- With aggressive multi-agent prophylaxis: 15-25%
+- **Important caveats:**
+  - Incidence varies by prophylaxis adherence, anesthetic technique (TIVA vs volatile), and N₂O use
+  - Apfel score provides risk estimate, not guarantee
+  - TIVA + avoiding N₂O + multimodal prophylaxis materially reduce risk
 
 **Prevention (Already Covered):**
 - Minimum 2 agents prophylaxis (3 if Apfel ≥3)
@@ -1362,17 +1374,36 @@ Anticipate: Rebound pain at 2-4 hours, monitor for respiratory depression
 
 **For Reference (Rescue Dosing):**
 
-| Opioid | Route | Dose | Morphine Equivalent |
-|--------|-------|------|---------------------|
-| **Morphine** | IV | 10 mg | 10 mg (1.0×) |
-| **Hydromorphone** | IV | 1.5 mg | 10 mg (6.7×) |
-| **Fentanyl** | IV | 100 mcg | 10 mg (0.1×) |
-| **Oxycodone** | PO | 15 mg | 10 mg (0.67×) |
+**Important Notes:**
+- Conversions are approximate; use institutional calculators for precision
+- Table below uses **IV morphine equivalents** for parenteral opioids
+- PO conversions assume standard bioavailability
+- Avoid using these conversions for methadone or buprenorphine (complex pharmacology)
 
-**Example Calculation:**
-- Fentanyl 200 mcg + Hydromorphone 0.4 mg =
-- (200 mcg × 0.1) + (0.4 mg × 6.7) =
-- 20 mg + 2.7 mg = **22.7 mg morphine equivalents**
+| Opioid | Route | Dose | Approximate IV Morphine Equivalent | Conversion Factor |
+|--------|-------|------|------------------------------------|-------------------|
+| **Morphine** | IV | 10 mg | 10 mg | 1.0× |
+| **Hydromorphone** | IV | 1.5 mg | 10 mg | 6.7× more potent than morphine |
+| **Fentanyl** | IV | 100 mcg | 10 mg | 0.1× (100× more potent than morphine) |
+| **Oxycodone** | PO | 15 mg | ~10 mg IV morphine | 0.67× (assumes ~60% bioavailability) |
+
+**Example Calculation (IV Morphine Equivalents):**
+
+**Given:**
+- Fentanyl 200 mcg IV
+- Hydromorphone 0.4 mg IV
+
+**Conversion:**
+- Fentanyl 200 mcg ÷ 100 mcg = 2 units → 2 × 10 mg = **20 mg IV morphine equivalent**
+  - (Per table: 100 mcg fentanyl ≈ 10 mg IV morphine)
+- Hydromorphone 0.4 mg ÷ 1.5 mg = 0.27 units → 0.27 × 10 mg = **2.7 mg IV morphine equivalent**
+  - (Per table: 1.5 mg hydromorphone ≈ 10 mg IV morphine)
+
+**Total:** 20 + 2.7 = **~22.7 mg IV morphine equivalent**
+
+**Clinical Use:** Estimate total opioid burden for risk assessment, monitoring intensity decisions, and rescue dosing planning.
+
+**Caution:** Conversions are approximate. Individual patient response varies. Use as estimation tool, not precise dosing calculator.
 
 ### Appendix B: STOP-BANG Questionnaire
 
@@ -1389,10 +1420,18 @@ Anticipate: Rebound pain at 2-4 hours, monitor for respiratory depression
 | **N**eck: Is your neck circumference >40 cm? | |
 | **G**ender: Are you male? | |
 
-**Scoring:**
-- 0-2: Low risk
-- 3-4: Intermediate risk (enhanced monitoring for Protocol 3)
-- 5-8: High risk (strongly consider Protocol 1-2 instead; if Protocol 3 mandatory, maximal monitoring)
+**Scoring and Protocol 3 Management:**
+
+| STOP-BANG Score | OSA Risk | Protocol 3 Monitoring Strategy |
+|-----------------|----------|--------------------------------|
+| **0-2** | Low risk | Standard PACU monitoring |
+| **3-4** | Intermediate risk | • Continuous SpO₂ until RASS 0<br>• Consider capnography if additional risk factors (elderly, high opioid exposure)<br>• Lower opioid rescue doses, longer intervals |
+| **5-8** | High risk | • **Capnography strongly recommended**<br>• **Continuous SpO₂ mandatory**<br>• Enhanced monitoring (vital signs q10 min)<br>• **Lower threshold for monitored bed**<br>• Hydromorphone 0.2 mg max, q30 min intervals<br>• **Strongly reconsider Protocol 1 or 2 instead** |
+
+**Operational Triggers:**
+- STOP-BANG ≥3 + Protocol 3 → Enhanced monitoring (above)
+- STOP-BANG ≥5 + Protocol 3 → Consider monitored bed even if stable (proactive escalation)
+- Any desaturation episode + STOP-BANG ≥3 → Mandatory capnography, consider monitored bed
 
 ### Appendix C: Apfel PONV Risk Score
 
@@ -1402,12 +1441,27 @@ Anticipate: Rebound pain at 2-4 hours, monitor for respiratory depression
 - History of PONV or motion sickness
 - Postoperative opioids
 
-**Scoring:**
-- 0: PONV risk ~10%
-- 1: PONV risk ~20%
-- 2: PONV risk ~40%
-- 3: PONV risk ~60%
-- 4: PONV risk ~80%
+**Scoring and Risk Estimates:**
+
+| Apfel Score | Estimated PONV Risk | Protocol 3 Prophylaxis Strategy |
+|-------------|---------------------|--------------------------------|
+| **0** | ~10% | Not applicable (Protocol 3 always includes opioids → minimum score 1) |
+| **1** | ~20% | Dexamethasone 4 mg + Ondansetron 4 mg |
+| **2** | ~40% | Dexamethasone 4-8 mg + Ondansetron 4 mg |
+| **3** | ~60% | Dexamethasone 8 mg + Ondansetron 4 mg + Scopolamine patch |
+| **4** | ~80% | Dex 8 mg + Ondansetron + Scopolamine + **Strongly reconsider Protocol 1 or 2** |
+
+**Important Caveats:**
+- Apfel provides **risk estimate**, not certainty
+- Actual incidence varies by:
+  - Prophylaxis adherence and agent selection
+  - Anesthetic technique (TIVA reduces risk vs volatile)
+  - Nitrous oxide use (if applicable - increases risk)
+  - Total opioid dose and type
+- **Protocol 3 minimum Apfel score is 1** (postoperative opioids = +1 point automatically)
+- Aggressive prophylaxis (≥2 agents for Apfel ≥2) materially reduces PONV incidence
+
+**Clinical Use:** Guide prophylaxis intensity, set patient expectations, inform protocol selection (Apfel 4 → strongly favor Protocol 1)
 
 **Protocol 3 Note:** ALL Protocol 3 patients get +1 point for opioids, so minimum Apfel score is 1.
 
@@ -1425,12 +1479,26 @@ Anticipate: Rebound pain at 2-4 hours, monitor for respiratory depression
 
 **Total ≥9 required for discharge** (plus meeting other institutional criteria)
 
+**Critical Note for Protocol 3:**
+- Aldrete ≥9 is **necessary but not sufficient** for discharge
+- **Does NOT override ongoing respiratory depression risk** in:
+  - OSA patients (STOP-BANG ≥3)
+  - Elderly patients (>70 years)
+  - High opioid exposure (>150 mcg fentanyl equivalent)
+- **Additional Protocol 3 discharge requirements:**
+  - Fully alert (RASS 0) - higher bar than Protocols 1-2
+  - No desaturation episodes in last 30 minutes (60 min for OSA)
+  - Adequate spontaneous ventilation without stimulation
+  - Pain controlled with plan (NRS ≤4)
+
+**When in Doubt:** Extend observation or escalate to monitored bed. Aldrete score does not capture delayed respiratory depression risk.
+
 ---
 
 ## Version History
 
 **Version 2.0 — December 2025**
-- Complete clinical validation and safety framework
+- Comprehensive safety framework developed with attending-level editorial review
 - Enhanced safety protocols matching rTKA Protocol 3 rigor:
   - Opioid minimization principles ("avoid late stacking")
   - Naloxone protocols (preparation, dosing, indication)
