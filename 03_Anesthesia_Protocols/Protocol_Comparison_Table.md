@@ -20,8 +20,6 @@
 
 ---
 
----
-
 ## Abbreviations and Definitions
 
 | Acronym | Definition |
