@@ -1,6 +1,6 @@
 # Protocol Comparison Table  
 ### Post-Mastectomy Breast Implant Revision  
-**Version 2.0 — December 2025**  
+**Version 2.1 — December 2025**  
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -61,7 +61,7 @@
 |---------|----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
 | **Protocol Line** | **First-line (preferred)** | Second-line | Third-line (reserved) |
 | **Primary Goal** | Optimal analgesia + minimal PONV | Opioid-sparing with minimal needles | Familiar technique for specific indications |
-| **Typical Needle Exposure** | IV + bilateral PECS blocks (2-4 block needles) | **IV only** | **IV only** |
+| **Typical Needle Exposure** |IV + bilateral PECS blocks (typically 2 skin punctures; may vary by technique) | **IV only** | **IV only** |
 | **Regional Anesthesia** | PECS I + II bilateral | None | None |
 | **Intraop Opioids** | **None (zero)** | **None (zero)** | Fentanyl + hydromorphone |
 | **Analgesic Quality** | ★★★★★ (excellent) | ★★★★☆ (good with infiltration) | ★★★☆☆ (variable, rebound pain) |
@@ -76,8 +76,8 @@
 | **Hemodynamic Stability** | Generally stable; monitor for dex-related bradycardia/hypotension, ketamine-related HTN/tachycardia | Generally stable; monitor for dex-related bradycardia/hypotension | Generally stable; monitor for opioid-related hypotension/bradycardia |
 | **Surgeon Infiltration** | Recommended (enhances coverage) | **ESSENTIAL** (critical success factor) | Helpful (reduces opioid needs) |
 | **Best For** | • High PONV risk (Apfel ≥3)<br>• Major revision/capsulectomy<br>• Anxious patients<br>• **ALL patients when feasible** | • Needle phobia<br>• Blocks contraindicated<br>• Anticoagulation<br>• Time constraints | • Chronic opioid use (>50 MME/day)<br>• Multiple OFIA contraindications<br>• Protocol 1-2 previous failure<br>• Patient explicit preference |
-| **Main Contraindications** | • Block site infection<br>• Therapeutic anticoagulation<br>• Patient refusal | • Anticipated severe pain without blocks<br>• Surgeon unable to infiltrate | • Very high PONV risk (Apfel 4)<br>• Severe untreated OSA<br>• Opioid use disorder in recovery |
-| **Patient Satisfaction** | Highest (excellent analgesia, low PONV) | High (when expectations set) | Lower (more side effects) |
+| **Main Contraindications** | • Block site infection<br>• Therapeutic anticoagulation<br>• Patient refusal | • Anticipated severe pain without blocks<br>• Surgeon infiltration not feasible or not planned (key success factor for Protocol 2) | • Very high PONV risk (Apfel 4)<br>• Severe untreated OSA<br>• Opioid use disorder in recovery |
+| **Patient Satisfaction** | Generally highest (low PONV, strong analgesia) | Generally high (expectation- and infiltration-dependent) | More variable (side-effect limited) |
 
 ---
 
@@ -177,7 +177,7 @@ All outcome ranges are **educational estimates** based on literature synthesis a
 | **Opioid late-stacking risk** | No (opioid-free) | No (opioid-free) | **YES - must avoid** |
 | **Naloxone protocol** | Standard availability | Standard availability | **Mandatory preparation** |
 | **Enhanced monitoring** | Standard | Standard | **Required (respiratory depression risk)** |
-| **Monitored bed escalation** | Rare | Rare | **Lower threshold (5-10% cases)** |
+| **Monitored bed escalation** | Rare | Rare | **Lower threshold (institution-dependent; guided by local QI data)** |
 
 ---
 
