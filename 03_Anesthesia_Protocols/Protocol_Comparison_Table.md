@@ -20,6 +20,60 @@
 
 ---
 
+---
+
+## Abbreviations and Definitions
+
+| Acronym | Definition |
+|---------|-----------|
+| **OFIA** | Opioid-Free Intraoperative Anesthesia |
+| **PECS** | Pectoral Nerve Blocks (PECS I and PECS II) |
+| **PONV** | Postoperative Nausea and Vomiting |
+| **NRS** | Numeric Rating Scale (0-10 pain scale) |
+| **RASS** | Richmond Agitation-Sedation Scale |
+| **LAST** | Local Anesthetic Systemic Toxicity |
+| **MME** | Morphine Milligram Equivalents (oral) |
+| **OSA** | Obstructive Sleep Apnea |
+| **PACU** | Post-Anesthesia Care Unit |
+| **ASA** | American Society of Anesthesiologists |
+| **QI** | Quality Improvement |
+
+---
+```
+
+---
+
+## **REPLACEMENT 9: Protocol Selection Flowchart - Add Safety Gate**
+
+**LOCATION:** In "Protocol Selection Flowchart" section
+
+**FIND THIS:**
+```
+├─ YES to any → **PROTOCOL 3** (Third-Line)
+└─ NO → **Reconsider Protocol 1 or 2**
+```
+
+**REPLACE WITH:**
+```
+├─ YES to any → **PROTOCOL 3** (Third-Line)
+│                    ↓
+│               **SAFETY GATE:**
+│               - OSA (STOP-BANG ≥5)?
+│               - Frail/elderly (>75 years)?
+│               - Very high PONV risk (Apfel 4)?
+│                    ↓
+│               If YES → Enhanced monitoring plan required:
+│                        • Attending discussion documented
+│                        • Capnography strongly recommended
+│                        • Naloxone prepared at bedside
+│                        • Lower threshold for monitored bed
+│                    ↓
+│               **PROTOCOL 3** with Enhanced Safety
+│
+└─ NO → **Reconsider Protocol 1 or 2**
+
+---
+
 ## Protocol Hierarchy (Essential Understanding)
 
 **Protocol Selection follows strict hierarchy:**
@@ -28,7 +82,12 @@
 2. **SECOND-LINE:** Protocol 2 (OFIA no blocks) - When blocks contraindicated/refused
 3. **THIRD-LINE:** Protocol 3 (Opioid-inclusive) - Reserved for specific indications only
 
-**Protocol 3 should be the EXCEPTION, not routine practice.**
+**Protocol 3 is typically reserved for defined indications** when Protocols 1-2 are unsuitable.
+
+**Important:** High-risk patients (OSA STOP-BANG ≥5, frail elderly, Apfel 4) requiring Protocol 3 need:
+- Attending discussion and enhanced monitoring plan
+- Documented rationale for Protocol 3 selection
+- Safety protocols (naloxone preparation, capnography, monitored bed criteria)
 
 ---
 
@@ -38,7 +97,7 @@
 |---------|----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
 | **Protocol Line** | **First-line (preferred)** | Second-line | Third-line (reserved) |
 | **Primary Goal** | Optimal analgesia + minimal PONV | Opioid-sparing with minimal needles | Familiar technique for specific indications |
-| **Needle Sticks** | IV + bilateral PECS blocks | **IV only** | **IV only** |
+| **Typical Needle Exposure** | IV + bilateral PECS blocks (2-4 block needles) | **IV only** | **IV only** |
 | **Regional Anesthesia** | PECS I + II bilateral | None | None |
 | **Intraop Opioids** | **None (zero)** | **None (zero)** | Fentanyl + hydromorphone |
 | **Analgesic Quality** | ★★★★★ (excellent) | ★★★★☆ (good with infiltration) | ★★★☆☆ (variable, rebound pain) |
@@ -50,7 +109,7 @@
 | **Naloxone Use** | <0.5% | <0.5% | **1-3%** |
 | **Expected PACU Time** | **60-90 min** | **90-120 min** | **120-180 min** |
 | **Emergence Quality** | Very smooth, calm, minimal sedation | Smooth, minimal sedation | Slower, more sedation, higher monitoring needs |
-| **Hemodynamic Stability** | Excellent (dex smooths course) | Excellent | More variable (opioid effects) |
+| **Hemodynamic Stability** | Generally stable; monitor for dex-related bradycardia/hypotension, ketamine-related HTN/tachycardia | Generally stable; monitor for dex-related bradycardia/hypotension | Generally stable; monitor for opioid-related hypotension/bradycardia |
 | **Surgeon Infiltration** | Recommended (enhances coverage) | **ESSENTIAL** (critical success factor) | Helpful (reduces opioid needs) |
 | **Best For** | • High PONV risk (Apfel ≥3)<br>• Major revision/capsulectomy<br>• Anxious patients<br>• **ALL patients when feasible** | • Needle phobia<br>• Blocks contraindicated<br>• Anticoagulation<br>• Time constraints | • Chronic opioid use (>50 MME/day)<br>• Multiple OFIA contraindications<br>• Protocol 1-2 previous failure<br>• Patient explicit preference |
 | **Main Contraindications** | • Block site infection<br>• Therapeutic anticoagulation<br>• Patient refusal | • Anticipated severe pain without blocks<br>• Surgeon unable to infiltrate | • Very high PONV risk (Apfel 4)<br>• Severe untreated OSA<br>• Opioid use disorder in recovery |
@@ -63,12 +122,17 @@
 | Agent | Protocol 1<br>(OFIA + Blocks) | Protocol 2<br>(OFIA No Blocks) | Protocol 3<br>(Opioid-Inclusive) |
 |-------|-------------------------------|--------------------------------|----------------------------------|
 | **Regional Block** | PECS I + II bilateral | None | None |
-| **Dexmedetomidine** | 0.2-0.5 mcg/kg/hr | 0.2-0.5 mcg/kg/hr | Optional 0.2-0.4 mcg/kg/hr |
-| **Ketamine (induction)** | 0.2-0.3 mg/kg | 0.2-0.3 mg/kg | Rarely used |
-| **Ketamine (intraop)** | Microboluses 10-20 mg PRN | Microboluses 10-20 mg PRN | Rarely |
-| **Lidocaine infusion** | 1-1.5 mg/kg/hr | 1-1.5 mg/kg/hr | Optional |
-| **Fentanyl** | **None** | **None** | 1-1.5 mcg/kg induction + infusion/boluses |
-| **Hydromorphone** | **None** | **None** | 0.2-0.4 mg IV end-of-case |
+| **Dexmedetomidine** | 0.2-0.5 mcg/kg/hr<br>(elderly: 0.2-0.4) | 0.2-0.5 mcg/kg/hr<br>(elderly: 0.2-0.4) | Optional 0.2-0.4 mcg/kg/hr |
+| **Ketamine (induction)** | 0.2-0.3 mg/kg<br>(elderly: 0.1-0.2) | 0.2-0.3 mg/kg<br>(elderly: 0.1-0.2) | Rarely used |
+| **Ketamine (intraop)** | Microboluses 10-20 mg PRN<br>OR infusion 0.1-0.2 mg/kg/hr | Microboluses 10-20 mg PRN<br>OR infusion 0.1-0.2 mg/kg/hr | Rarely |
+| **Lidocaine infusion** | 1-1.5 mg/kg/hr<br>(hepatic dysfunction: reduce/avoid) | 1-1.5 mg/kg/hr<br>(hepatic dysfunction: reduce/avoid) | Optional if no contraindications |
+| **Fentanyl** | **Goal: zero**<br>(rescue per attending) | **Goal: zero**<br>(rescue per attending) | 1-1.5 mcg/kg induction<br>+ infusion 0.5-1 mcg/kg/hr OR boluses<br>(phenotype-adjusted) |
+| **Hydromorphone** | **Goal: zero**<br>(rescue per attending) | **Goal: zero**<br>(rescue per attending) | 0.2-0.4 mg IV end-of-case<br>(≥20 min before extubation) |
+
+**Adjunct Notes:**
+- **Protocol 1-2:** Opioid-free goal; small rescue doses permitted for block failure, severe stimulus, or attending judgment
+- **Protocol 2:** Conservative ketamine/dex approach validated; higher ranges used selectively when appropriate
+- **Protocol 3:** Phenotype-specific dosing (see Protocol 3 document for elderly, OSA, chronic opioid adjustments)
 
 ---
 
@@ -82,8 +146,19 @@
 | **Respiratory Events** | <2% | <2% | 5-10% |
 | **Naloxone Use** | <0.5% | <0.5% | 1-3% |
 | **PACU Duration** | 60-90 min | 90-120 min | 120-180 min |
-| **Patient Satisfaction** | >90% | 80-90% | 70-80% |
+| **Patient Satisfaction** | Highest (excellent analgesia, low PONV) | High (when expectations appropriately set) | Lower (more side effects, longer recovery) |
 | **Unplanned Admission** | <2% | <3% | <5% |
+
+**Important Note on Outcome Estimates:**
+
+All outcome ranges are **educational estimates** based on literature synthesis and may not reflect your institutional experience. Actual incidence varies by:
+- **Definition used** (e.g., PONV = vomiting only vs nausea + rescue antiemetic; respiratory event = desaturation <90% vs <88% vs naloxone use)
+- **Population characteristics** (OSA prevalence, chronic opioid use, Apfel distribution)
+- **Prophylaxis adherence** (PONV prophylaxis compliance, multimodal analgesia implementation)
+- **Monitoring intensity** (continuous capnography detects more respiratory events than pulse oximetry alone)
+- **Anesthetic technique** (TIVA vs volatile, N₂O use, total opioid dose)
+
+**Recommendation:** Replace these estimates with your institution's quality improvement (QI) benchmarks when available. These educational ranges provide starting points for protocol comparison, not validated performance targets.
 
 ---
 
@@ -209,25 +284,37 @@ Are regional blocks FEASIBLE and SAFE?
 
 ### Common Misconceptions to Avoid:
 
-**"Protocol 3 is easier/faster"** - Actually requires MORE monitoring and LONGER PACU time  
-**"All patients need opioids for surgery"** - Protocols 1-2 prove opioid-free is safe and effective  
-**"Protocol 2 is just as good as Protocol 1"** - Protocol 1 outcomes are superior when blocks feasible  
-**"Chronic opioid patients can't have OFIA"** - Protocol 1 with blocks can work, though may need Protocol 3  
+**"Protocol 3 is easier/faster"**  
+✓ Actually requires MORE monitoring and LONGER PACU time
+
+**"All patients need opioids for surgery"**  
+✓ Protocols 1-2 demonstrate opioid-free approaches are safe and effective when appropriately applied
+
+**"Protocol 2 is just as good as Protocol 1"**  
+✓ Protocol 1 outcomes are generally superior when blocks are feasible; Protocol 2 is appropriate alternative
+
+**"Chronic opioid patients can't have opioid-free anesthesia"**  
+✓ Protocol 1 with blocks can work for some tolerant patients; Protocol 3 often needed for high tolerance
+
+**"Hemodynamics are always 'excellent' with OFIA"**  
+✓ Dexmedetomidine can cause bradycardia/hypotension; ketamine can cause HTN/tachycardia; monitor accordingly
 
 ---
 
 ## Version History
 
+**Version 2.1 — December 2025**
+- Updated educational estimates (literature-informed; institution-dependent)
+- Outcome ranges require validation with local QI data
+- Protocol 2 adjunct dosing aligned with conservative framework
+- Hemodynamic stability descriptions physiologically accurate
+- Acronyms defined, governance-safe language throughout
+
 **Version 2.0 — December 2025**
-- Complete update with validated clinical data
 - Protocol hierarchy emphasized (first/second/third-line)
 - Expected outcomes quantified for all three protocols
 - Safety framework comparison added
 - Special populations guidance integrated
-- Monitoring requirements detailed
-- Flowchart for protocol selection
-- Educational disclaimer added
-- Aligned with updated individual protocol documents (all Version 2.0)
 
 **Version 1.0 — December 2025**
 - Initial comparison table
