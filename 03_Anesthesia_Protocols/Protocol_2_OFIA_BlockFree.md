@@ -488,7 +488,9 @@ If NRS ≥4:
 - Earlier opioid rescue (small titrated doses)
 - **OR transition to Protocol 3** for subsequent cases with this patient
 
-**Important:** Escalation must account for cumulative sedative burden and emergence timing.
+**Important:** 
+- Escalation must account for cumulative sedative burden and emergence timing
+- **Most patients do well with standard Protocol 2 dosing plus rescue**; escalation reserved for refractory cases
 
 **Opioid rescue (examples)**
 | Phenotype | Hydromorphone dose | Interval | Monitoring |
