@@ -39,40 +39,6 @@
 | **QI** | Quality Improvement |
 
 ---
-```
-
----
-
-## **REPLACEMENT 9: Protocol Selection Flowchart - Add Safety Gate**
-
-**LOCATION:** In "Protocol Selection Flowchart" section
-
-**FIND THIS:**
-```
-├─ YES to any → **PROTOCOL 3** (Third-Line)
-└─ NO → **Reconsider Protocol 1 or 2**
-```
-
-**REPLACE WITH:**
-```
-├─ YES to any → **PROTOCOL 3** (Third-Line)
-│                    ↓
-│               **SAFETY GATE:**
-│               - OSA (STOP-BANG ≥5)?
-│               - Frail/elderly (>75 years)?
-│               - Very high PONV risk (Apfel 4)?
-│                    ↓
-│               If YES → Enhanced monitoring plan required:
-│                        • Attending discussion documented
-│                        • Capnography strongly recommended
-│                        • Naloxone prepared at bedside
-│                        • Lower threshold for monitored bed
-│                    ↓
-│               **PROTOCOL 3** with Enhanced Safety
-│
-└─ NO → **Reconsider Protocol 1 or 2**
-
----
 
 ## Protocol Hierarchy (Essential Understanding)
 
@@ -237,20 +203,34 @@ START: Post-Mastectomy Breast Implant Revision
 Are regional blocks FEASIBLE and SAFE?
     ├─ YES → Does patient CONSENT to blocks?
     │         ├─ YES → **PROTOCOL 1** (First-Line)
-    │         └─ NO (needle phobia) → **PROTOCOL 2** (Second-Line)
+    │         └─ NO (needle phobia/refusal) → **PROTOCOL 2** (Second-Line)
     │
     └─ NO (contraindicated) → **PROTOCOL 2** (Second-Line)
               ↓
-         PROTOCOL 2 appropriate?
+Is Protocol 2 appropriate and expected to provide adequate analgesia
+(with surgeon infiltration planned)?
               ├─ YES → **PROTOCOL 2**
-              └─ NO → Check specific indications:
+              └─ NO → Check specific indications for Protocol 3:
                        ├─ Chronic opioid use (>50 MME/day)?
-                       ├─ Multiple OFIA contraindications?
-                       ├─ Protocol 1-2 previous failure?
+                       ├─ Multiple OFIA adjunct contraindications?
+                       ├─ Prior Protocol 1–2 failure in same patient?
                        ├─ Patient explicit preference after counseling?
                        │
-                       ├─ YES to any → **PROTOCOL 3** (Third-Line)
-                       └─ NO → **Reconsider Protocol 1 or 2**
+                       ├─ NO to all → **Reconsider Protocol 1 or 2**
+                       └─ YES to any → **PROTOCOL 3** (Third-Line)
+                                         ↓
+                                    **SAFETY GATE (if Protocol 3):**
+                                    - OSA very high risk (STOP-BANG ≥5)?
+                                    - Frail/elderly (e.g., >75) or high sedation risk?
+                                    - Very high PONV risk (Apfel 4)?
+                                         ↓
+                                    If YES → Enhanced plan required:
+                                             • Attending discussion documented
+                                             • Capnography strongly considered
+                                             • Naloxone prepared/diluted at bedside
+                                             • Lower threshold for monitored bed
+                                         ↓
+                                    **PROTOCOL 3** with Enhanced Safety
 ```
 
 ---
