@@ -441,6 +441,17 @@ Before incision, confirm:
 - Lower PONV relative to opioid-forward approaches when TIVA + prophylaxis used
 - Potentially longer PACU time due to analgesic titration
 
+## Expected Clinical Outcomes (Protocol 2)
+
+| Metric | Protocol 2 Target | Comparison |
+|--------|-------------------|------------|
+| **PACU Pain (NRS)** | 3-6/10 | Protocol 1: 1-3/10 |
+| **Rescue Analgesia Needed** | 20-40% | Protocol 1: <20% |
+| **PONV Incidence** | 10-15% | Protocol 1: 3-8%; Protocol 3: 25-40% |
+| **Time to Discharge** | 90-120 min | Protocol 1: 60-90 min |
+
+**Key Point:** Higher analgesic requirements expected vs Protocol 1 due to lack of regional blocks. This is anticipated and managed with multimodal rescue strategies.
+
 ### Monitoring
 - Vitals q15 min initially → q30 min when stable
 - Continuous SpO₂ until stable/awake; consider capnography for OSA/COPD or significant sedation
@@ -462,6 +473,22 @@ If NRS ≥4:
    - Ketamine 10–20 mg IV (if permitted and appropriate)
 3. If inadequate or contraindicated:
    - Opioid rescue using small, titrated doses with monitoring
+
+## Analgesic Escalation Strategy (If Initial Multimodal Inadequate)
+
+**If pain remains NRS ≥6 despite:**
+- Optimized surgeon infiltration
+- Dexmedetomidine 0.2-0.5 mcg/kg/hr
+- Ketamine 0.2-0.3 mg/kg
+- Lidocaine infusion
+
+**Consider (attending discretion):**
+- Ketamine dose escalation to 0.3-0.5 mg/kg (if no contraindications)
+- Dexmedetomidine escalation to 0.5-0.7 mcg/kg/hr (monitor for bradycardia)
+- Earlier opioid rescue (small titrated doses)
+- **OR transition to Protocol 3** for subsequent cases with this patient
+
+**Important:** Escalation must account for cumulative sedative burden and emergence timing.
 
 **Opioid rescue (examples)**
 | Phenotype | Hydromorphone dose | Interval | Monitoring |
