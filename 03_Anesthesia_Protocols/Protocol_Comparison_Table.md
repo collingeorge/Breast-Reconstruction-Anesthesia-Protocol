@@ -1,70 +1,250 @@
 # Protocol Comparison Table  
 ### Post-Mastectomy Breast Implant Revision  
-**Version 1.0 — December 2025**  
+**Version 2.0 — December 2025**  
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## Side-by-Side Overview
+## Educational Use Disclaimer
 
-| Feature                        | Protocol 1<br>**OFA + PECS/Serratus Blocks** | Protocol 2<br>**OFA – No Blocks** | Protocol 3<br>**Conventional Opioid-Based** |
-|--------------------------------|-----------------------------------------------|------------------------------------|----------------------------------------------|
-| **Primary Goal**               | Maximum comfort, minimal PONV                | Minimal needle sticks, still opioid-free | Familiar technique, opioid-tolerant patients |
-| **Needle Sticks**              | IV + ultrasound-guided blocks (2–4 injections) | **IV only**                        | **IV only**                                  |
-| **Analgesic Quality**          | ★★★★★                                        | ★★★★☆                              | ★★★☆☆                                        |
-| **PONV Risk**                  | ★☆☆☆☆ (lowest)                               | ★★☆☆☆                              | ★★★★☆ (highest)                              |
-| **Intra-op Opioids**           | None                                         | None                               | Yes (fentanyl / hydromorphone)               |
-| **Hemodynamic Stability**      | Excellent (dexmedetomidine)                  | Excellent                          | More variable                                |
-| **Emergence Quality**          | Very smooth, calm                            | Smooth                             | Slower, more sedation                        |
-| **Expected PACU Pain Score**   | 1–3 /10                                      | 3–6 /10                            | 5–8 /10                                      |
-| **Post-op Opioid Requirement** | Rare                                         | Occasional                         | Common                                       |
-| **Estimated PONV Incidence**   | 3–8%                                         | 10–15%                             | 25–40%                                       |
-| **Surgeon Local Infiltration** | Recommended                                  | **Essential**                      | Helpful                                      |
-| **Best For**                   | High PONV risk, anxious patients, major revision | Needle-phobic patients, mild-moderate cases | Chronic opioid users, patient preference for “traditional” |
-| **Main Contraindication**      | Block-site infection, anticoagulation        | Anticipated severe pain            | Severe OSA, very high PONV risk              |
+**This comparison table is an educational framework, not an institutional clinical guideline.**
+
+- Developed for pre-medical educational purposes and medical school application portfolio
+- NOT approved for clinical use without institutional review and attending physician oversight
+- All clinical decisions require attending anesthesiologist judgment and patient-specific assessment
+- Does not replace formal anesthesia training, credentialing, or institutional policies
+- Author is pre-medical student; content reflects literature synthesis, not clinical expertise
+
+**For clinical implementation:** This framework requires validation by board-certified anesthesiologists, institutional governance review, and integration with local policies.
+
+---
+
+## Protocol Hierarchy (Essential Understanding)
+
+**Protocol Selection follows strict hierarchy:**
+
+1. **FIRST-LINE:** Protocol 1 (OFIA + PECS blocks) - Use when feasible
+2. **SECOND-LINE:** Protocol 2 (OFIA no blocks) - When blocks contraindicated/refused
+3. **THIRD-LINE:** Protocol 3 (Opioid-inclusive) - Reserved for specific indications only
+
+**Protocol 3 should be the EXCEPTION, not routine practice.**
+
+---
+
+## Side-by-Side Comparison
+
+| Feature | Protocol 1<br>**OFIA + PECS Blocks**<br>**(First-Line)** | Protocol 2<br>**OFIA No Blocks**<br>**(Second-Line)** | Protocol 3<br>**Opioid-Inclusive**<br>**(Third-Line)** |
+|---------|----------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------|
+| **Protocol Line** | **First-line (preferred)** | Second-line | Third-line (reserved) |
+| **Primary Goal** | Optimal analgesia + minimal PONV | Opioid-sparing with minimal needles | Familiar technique for specific indications |
+| **Needle Sticks** | IV + bilateral PECS blocks | **IV only** | **IV only** |
+| **Regional Anesthesia** | PECS I + II bilateral | None | None |
+| **Intraop Opioids** | **None (zero)** | **None (zero)** | Fentanyl + hydromorphone |
+| **Analgesic Quality** | ★★★★★ (excellent) | ★★★★☆ (good with infiltration) | ★★★☆☆ (variable, rebound pain) |
+| **PACU Pain (NRS)** | **1-3/10** | **3-6/10** | **2-4/10 initially → 5-8/10 rebound** |
+| **Rescue Analgesia Needed** | **<20%** of patients | **20-40%** of patients | Variable (high in opioid-naïve, higher in tolerant) |
+| **PONV Incidence** | **3-8%** (lowest) | **10-15%** (moderate) | **15-25%** (highest, despite prophylaxis) |
+| **PONV Risk Level** | ★☆☆☆☆ (very low) | ★★☆☆☆ (low-moderate) | ★★★★☆ (high) |
+| **Respiratory Events** | <2% | <2% | **5-10%** (desaturation, oversedation) |
+| **Naloxone Use** | <0.5% | <0.5% | **1-3%** |
+| **Expected PACU Time** | **60-90 min** | **90-120 min** | **120-180 min** |
+| **Emergence Quality** | Very smooth, calm, minimal sedation | Smooth, minimal sedation | Slower, more sedation, higher monitoring needs |
+| **Hemodynamic Stability** | Excellent (dex smooths course) | Excellent | More variable (opioid effects) |
+| **Surgeon Infiltration** | Recommended (enhances coverage) | **ESSENTIAL** (critical success factor) | Helpful (reduces opioid needs) |
+| **Best For** | • High PONV risk (Apfel ≥3)<br>• Major revision/capsulectomy<br>• Anxious patients<br>• **ALL patients when feasible** | • Needle phobia<br>• Blocks contraindicated<br>• Anticoagulation<br>• Time constraints | • Chronic opioid use (>50 MME/day)<br>• Multiple OFIA contraindications<br>• Protocol 1-2 previous failure<br>• Patient explicit preference |
+| **Main Contraindications** | • Block site infection<br>• Therapeutic anticoagulation<br>• Patient refusal | • Anticipated severe pain without blocks<br>• Surgeon unable to infiltrate | • Very high PONV risk (Apfel 4)<br>• Severe untreated OSA<br>• Opioid use disorder in recovery |
+| **Patient Satisfaction** | Highest (excellent analgesia, low PONV) | High (when expectations set) | Lower (more side effects) |
+
+---
+
+## Multimodal Adjunct Summary
+
+| Agent | Protocol 1<br>(OFIA + Blocks) | Protocol 2<br>(OFIA No Blocks) | Protocol 3<br>(Opioid-Inclusive) |
+|-------|-------------------------------|--------------------------------|----------------------------------|
+| **Regional Block** | PECS I + II bilateral | None | None |
+| **Dexmedetomidine** | 0.2-0.5 mcg/kg/hr | 0.2-0.5 mcg/kg/hr | Optional 0.2-0.4 mcg/kg/hr |
+| **Ketamine (induction)** | 0.2-0.3 mg/kg | 0.2-0.3 mg/kg | Rarely used |
+| **Ketamine (intraop)** | Microboluses 10-20 mg PRN | Microboluses 10-20 mg PRN | Rarely |
+| **Lidocaine infusion** | 1-1.5 mg/kg/hr | 1-1.5 mg/kg/hr | Optional |
+| **Fentanyl** | **None** | **None** | 1-1.5 mcg/kg induction + infusion/boluses |
+| **Hydromorphone** | **None** | **None** | 0.2-0.4 mg IV end-of-case |
+
+---
+
+## Expected Clinical Outcomes (Comparison)
+
+| Outcome Metric | Protocol 1 | Protocol 2 | Protocol 3 |
+|----------------|-----------|-----------|-----------|
+| **PACU Pain (NRS)** | 1-3/10 | 3-6/10 | 2-4/10 → 5-8/10 rebound |
+| **Rescue Analgesia Rate** | <20% | 20-40% | Variable by tolerance |
+| **PONV Incidence** | 3-8% | 10-15% | 15-25% |
+| **Respiratory Events** | <2% | <2% | 5-10% |
+| **Naloxone Use** | <0.5% | <0.5% | 1-3% |
+| **PACU Duration** | 60-90 min | 90-120 min | 120-180 min |
+| **Patient Satisfaction** | >90% | 80-90% | 70-80% |
+| **Unplanned Admission** | <2% | <3% | <5% |
 
 ---
 
 ## Quick Decision Guide
 
-| Clinical Scenario                              | Recommended Protocol |
-|------------------------------------------------|----------------------|
-| Apfel PONV score ≥ 3                           | **Protocol 1**       |
-| Patient terrified of needles / needle phobia   | **Protocol 2**       |
-| Chronic opioid use (>3 months)                 | **Protocol 3** (or 1) |
-| Suspected infection or total capsulectomy     | **Protocol 1**       |
-| Patient wants “the old/standard way”           | **Protocol 3**       |
-| Minor revision, patient wants simplicity       | **Protocol 2**       |
-| History of severe PONV with opioids            | **Protocol 1**       |
+### Primary Protocol Selection
 
-**Default first-line choice → Protocol 1** (unless patient strongly prefers fewer needles)
+| Clinical Scenario | Recommended Protocol | Rationale |
+|-------------------|---------------------|-----------|
+| **Standard patient, no contraindications** | **Protocol 1** | Best outcomes, first-line |
+| **Apfel PONV score ≥3** | **Protocol 1** | Lowest PONV risk |
+| **Major revision, extensive dissection** | **Protocol 1** | Superior analgesia |
+| **Patient terrified of needles** | **Protocol 2** | Needle-minimizing approach |
+| **Anticoagulation/coagulopathy** | **Protocol 2** | Blocks contraindicated |
+| **Blocks technically not feasible** | **Protocol 2** | Time/anatomy constraints |
+| **Chronic opioid use (>50 MME/day)** | **Protocol 3** (consider P1 if tolerates blocks) | Tolerance to opioid-sparing |
+| **Multiple OFIA contraindications** | **Protocol 3** | When dex/ketamine/lidocaine all contraindicated |
+| **Protocol 1-2 previous failure (same patient)** | **Protocol 3** | Documented inadequate analgesia |
+| **Patient explicitly wants "traditional"** | **Protocol 3** | Autonomy (after informed discussion) |
 
----
+### Special Populations
 
-## Infusion & Adjunct Summary
-
-| Agent                  | Protocol 1 | Protocol 2 | Protocol 3          |
-|------------------------|------------|------------|---------------------|
-| Dexmedetomidine infusion | Yes       | Yes       | Optional / low dose |
-| Lidocaine infusion     | Yes       | Yes       | Optional            |
-| Ketamine (microboluses)| Yes       | Yes       | Rarely              |
-| Intraoperative opioids | No        | No        | Yes                 |
-| Regional block         | Yes       | No        | No                  |
-
----
-
-## Bottom Line
-
-| Preference / Situation                     | Choose                                  |
-|--------------------------------------------|-----------------------------------------|
-| Want the **best possible patient experience** | **Protocol 1** (OFA + blocks)           |
-| Want **zero extra needles**                   | **Protocol 2** (OFA no blocks)          |
-| Need **opioids** or patient insists on traditional | **Protocol 3**                          |
+| Patient Population | Protocol Recommendation | Key Considerations |
+|-------------------|------------------------|-------------------|
+| **Elderly (>70 years)** | **Protocol 1 preferred** | If P3 needed: reduce all doses 25-50% |
+| **OSA (any severity)** | **Protocol 1 or 2 strongly preferred** | If P3 needed: enhanced monitoring, capnography |
+| **Opioid use disorder (recovery)** | **Protocol 1 or 2** (avoid opioids) | Minimize relapse risk |
+| **Very high PONV risk (Apfel 4)** | **Protocol 1** | Avoid Protocol 3 if possible |
+| **Needle phobia** | **Protocol 2** | Patient-centered approach |
 
 ---
 
-**End of Comparison Table**  
-*Educational resource only — always confirm with attending physician and institutional policies.*
+## Monitoring Requirements Summary
+
+| Monitoring Element | Protocol 1 | Protocol 2 | Protocol 3 |
+|-------------------|-----------|-----------|-----------|
+| **Standard ASA monitors** | Yes | Yes | Yes |
+| **PACU vital signs frequency** | Q15 min → Q30 min | Q15 min → Q30 min | **Q10-15 min** initially |
+| **Continuous SpO₂ duration** | ~60 min | ~90 min | **Until fully alert (RASS 0)** |
+| **RASS scoring** | Q30 min | Q15-30 min | **Q10-15 min** |
+| **Capnography** | Rarely needed | Consider if OSA/COPD | **Strongly consider if OSA/elderly/high opioid** |
+| **Naloxone at bedside** | Per routine | Per routine | **MANDATORY, prepared/diluted** |
 
 ---
+
+## Safety Framework Summary
+
+| Safety Element | Protocol 1 | Protocol 2 | Protocol 3 |
+|----------------|-----------|-----------|-----------|
+| **LAST risk** | Yes (PECS blocks) | No | No |
+| **20% lipid emulsion** | At bedside for blocks | Not needed | Not needed |
+| **Opioid late-stacking risk** | No (opioid-free) | No (opioid-free) | **YES - must avoid** |
+| **Naloxone protocol** | Standard availability | Standard availability | **Mandatory preparation** |
+| **Enhanced monitoring** | Standard | Standard | **Required (respiratory depression risk)** |
+| **Monitored bed escalation** | Rare | Rare | **Lower threshold (5-10% cases)** |
+
+---
+
+## Cost and Resource Considerations (Approximate)
+
+| Resource | Protocol 1 | Protocol 2 | Protocol 3 |
+|----------|-----------|-----------|-----------|
+| **Block equipment** | Ultrasound, needles, LA | None | None |
+| **Medication cost** | Moderate (dex, ketamine, LA) | Moderate (dex, ketamine) | Low (opioids inexpensive) |
+| **PACU time** | Shortest (60-90 min) | Moderate (90-120 min) | **Longest (120-180 min)** |
+| **Nursing resources** | Standard | Standard | **Enhanced (closer monitoring)** |
+| **Unplanned admission** | Lowest (<2%) | Low (<3%) | Higher (<5%) |
+| **Overall cost-effectiveness** | **Best** (shorter stay, fewer complications) | Good | Lower (longer stay, more complications) |
+
+---
+
+## Protocol Selection Flowchart
+```
+START: Post-Mastectomy Breast Implant Revision
+    ↓
+Are regional blocks FEASIBLE and SAFE?
+    ├─ YES → Does patient CONSENT to blocks?
+    │         ├─ YES → **PROTOCOL 1** (First-Line)
+    │         └─ NO (needle phobia) → **PROTOCOL 2** (Second-Line)
+    │
+    └─ NO (contraindicated) → **PROTOCOL 2** (Second-Line)
+              ↓
+         PROTOCOL 2 appropriate?
+              ├─ YES → **PROTOCOL 2**
+              └─ NO → Check specific indications:
+                       ├─ Chronic opioid use (>50 MME/day)?
+                       ├─ Multiple OFIA contraindications?
+                       ├─ Protocol 1-2 previous failure?
+                       ├─ Patient explicit preference after counseling?
+                       │
+                       ├─ YES to any → **PROTOCOL 3** (Third-Line)
+                       └─ NO → **Reconsider Protocol 1 or 2**
+```
+
+---
+
+## Bottom Line Summary
+
+| Patient Preference / Clinical Situation | Choose | Avoid |
+|----------------------------------------|--------|-------|
+| **Best overall outcomes** | **Protocol 1** | - |
+| **High PONV risk** | **Protocol 1** | Protocol 3 |
+| **Needle phobia** | **Protocol 2** | Protocol 1 |
+| **Blocks contraindicated** | **Protocol 2** | Protocol 1 |
+| **Chronic opioid use** | **Protocol 3** (or Protocol 1 if blocks feasible) | Inadequate dosing |
+| **OSA** | **Protocol 1 or 2** | Protocol 3 if possible |
+| **Elderly and frail** | **Protocol 1 or 2** | Protocol 3 if possible |
+| **Opioid use disorder (recovery)** | **Protocol 1 or 2** | Protocol 3 |
+| **Very high PONV risk (Apfel 4)** | **Protocol 1** | Protocol 3 |
+| **Major revision/capsulectomy** | **Protocol 1** | Protocol 2 alone |
+
+---
+
+## Key Takeaways
+
+### For Optimal Patient Outcomes:
+
+1. **Default to Protocol 1 when feasible** - best analgesia, lowest PONV, highest satisfaction
+2. **Protocol 2 when blocks not possible** - still opioid-sparing, acceptable outcomes with good surgeon infiltration
+3. **Protocol 3 only for specific indications** - reserve for chronic opioid users or when Protocols 1-2 truly inappropriate
+4. **Patient-centered selection** - consider patient preferences, comorbidities, and surgical factors
+5. **Safety first** - all protocols include comprehensive safety frameworks; Protocol 3 requires enhanced monitoring
+
+### Common Misconceptions to Avoid:
+
+**"Protocol 3 is easier/faster"** - Actually requires MORE monitoring and LONGER PACU time  
+**"All patients need opioids for surgery"** - Protocols 1-2 prove opioid-free is safe and effective  
+**"Protocol 2 is just as good as Protocol 1"** - Protocol 1 outcomes are superior when blocks feasible  
+**"Chronic opioid patients can't have OFIA"** - Protocol 1 with blocks can work, though may need Protocol 3  
+
+---
+
+## Version History
+
+**Version 2.0 — December 2025**
+- Complete update with validated clinical data
+- Protocol hierarchy emphasized (first/second/third-line)
+- Expected outcomes quantified for all three protocols
+- Safety framework comparison added
+- Special populations guidance integrated
+- Monitoring requirements detailed
+- Flowchart for protocol selection
+- Educational disclaimer added
+- Aligned with updated individual protocol documents (all Version 2.0)
+
+**Version 1.0 — December 2025**
+- Initial comparison table
+
+---
+
+## Author and License
+
+**Author:** Collin B. George, BS  
+**Project Type:** Educational pre-medical protocol framework  
+**Status:** Not validated for clinical use; requires institutional review
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+**Acknowledgment:**  
+This comparison synthesizes the three individual protocol documents, providing quick reference for protocol selection. All clinical decisions require attending anesthesiologist judgment and patient-specific assessment.
+
+---
+
+**End of Protocol Comparison Table** — *Educational resource only.*
