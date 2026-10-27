@@ -1,5 +1,5 @@
 {
-  "candidate": "2026.10-rc1",
+  "candidate": "2026.10-rc2",
   "public_release": false,
   "history_included": false,
   "history_audited": false,
@@ -64,7 +64,12 @@
     {
       "path": "CITATION.cff",
       "bytes": 531,
-      "sha256": "defb554b2e1049df93f0560ef20892e78ab8e7bc5b523695bd2ab572e612662a"
+      "sha256": "c88e739f3b125bdacf084827ad55dc59380b45320841abebfe9dd9badee3dc73"
+    },
+    {
+      "path": "HISTORICAL_VERSION_NOTICE.md",
+      "bytes": 467,
+      "sha256": "c35978856d877183e1500d5eb494f1dd0130ac581dc7f0a907cdfab65094128a"
     },
     {
       "path": "LICENSE",
@@ -77,9 +82,14 @@
       "sha256": "48047497701e7e4b4f67613891af863e840a4f58b6dd5a5461a7109de15308fa"
     },
     {
+      "path": "PROVENANCE.md",
+      "bytes": 1418,
+      "sha256": "e8d321b9ad4f01b4a53b25d5310b57b9c4d2aa14c28bc340a00fb8acfdb5a264"
+    },
+    {
       "path": "PUBLICATION_REVIEW.md",
-      "bytes": 2463,
-      "sha256": "f7a59625d634a4d1be14df0afcb79014f447a56f4f4cb8ef633e30d35728df5b"
+      "bytes": 2570,
+      "sha256": "1675a87385af597a78d6d5914176c1d7041d4239ae1887b8fd47b5f5f854d0f7"
     },
     {
       "path": "README.md",
@@ -88,8 +98,8 @@
     },
     {
       "path": "RELEASE_NOTES.md",
-      "bytes": 547,
-      "sha256": "168f584de4e0a2f71801c4d7258b8639de5e921a0094aff216ea298a401062c0"
+      "bytes": 610,
+      "sha256": "01f827257e76caabbc7bacfcd4ce085780b0dfe289a74058d2f1be760194423f"
     }
   ]
 }
