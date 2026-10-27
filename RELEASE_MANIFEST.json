@@ -1,0 +1,95 @@
+{
+  "candidate": "2026.10-rc1",
+  "public_release": false,
+  "history_included": false,
+  "history_audited": false,
+  "secret_scan_scope": "Listed current files only; three high-confidence patterns. Not a full credential, PHI, copyright, or clinical audit.",
+  "findings": [],
+  "files": [
+    {
+      "path": "01_PreOp_Assessment_and_Checklist.md",
+      "bytes": 1428,
+      "sha256": "8df8c2a1c4a7b53dc60395caa51df6b7ff10da518e3de83b800072a6200eb1df"
+    },
+    {
+      "path": "02_Patient_Counseling_Script.md",
+      "bytes": 1507,
+      "sha256": "9744856e79c764d2f8f8ac37af56b87dcf65c639878227fbd2039f541ec02aee"
+    },
+    {
+      "path": "03_Anesthesia_Protocols/Protocol_1_OFIA_With_PECS_Block.md",
+      "bytes": 1732,
+      "sha256": "bd6967ddc5e71e8477b16564fdec73f246e29f8a6580239cf5a4302bb561cbc5"
+    },
+    {
+      "path": "03_Anesthesia_Protocols/Protocol_2_OFIA_BlockFree.md",
+      "bytes": 1582,
+      "sha256": "c5c6436869913b1d56f94b6ec9aeebd0b6ba23c273dcf29fb42dd1be5104da1f"
+    },
+    {
+      "path": "03_Anesthesia_Protocols/Protocol_3_OpioidBased_NoBlocks.md",
+      "bytes": 1655,
+      "sha256": "e15433e4c8cbb7e73c345b5ca89f3f301918dd3b9eb093160a4806eab5515fc4"
+    },
+    {
+      "path": "03_Anesthesia_Protocols/Protocol_Comparison_Table.md",
+      "bytes": 1768,
+      "sha256": "d933962988561e29f26d5f29ea0d427fc0c71a79fa7af0dc60c404fbf26a8721"
+    },
+    {
+      "path": "03_Anesthesia_Protocols/README.md",
+      "bytes": 1288,
+      "sha256": "546999955d7d112934ee2b46344cef693c464dd4e0ece2041651ce75fe3fb696"
+    },
+    {
+      "path": "04_Surgical_Workflow_and_Timeline.md",
+      "bytes": 1422,
+      "sha256": "9e5affd7656f41f425f7383522f7399562128982f85af2f8d160465f46718aed"
+    },
+    {
+      "path": "05_PACU_and_Discharge_Instructions.md",
+      "bytes": 1697,
+      "sha256": "244220b0e5b5c6e33abaeaf9c8272afc13b54c4bb39278c6b728c6042a621157"
+    },
+    {
+      "path": "06_References_Evidence_Breast_Augmentation.md",
+      "bytes": 1704,
+      "sha256": "f16f979d5a0248b7973e65d8337b6137b8baed227b25736686aced2aef2c9c18"
+    },
+    {
+      "path": "CHANGELOG",
+      "bytes": 257,
+      "sha256": "57c4466e8d77da830c5338b66065aa648ef2cefaf932c765ff560d6f6a5f781a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 531,
+      "sha256": "defb554b2e1049df93f0560ef20892e78ab8e7bc5b523695bd2ab572e612662a"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 880,
+      "sha256": "3cff795b2569866bdc491da3ac03f90b18ee9c5ae6d9708aa2ae7ec32b204370"
+    },
+    {
+      "path": "OR_Checklist_Pre-Induction.md",
+      "bytes": 1255,
+      "sha256": "48047497701e7e4b4f67613891af863e840a4f58b6dd5a5461a7109de15308fa"
+    },
+    {
+      "path": "PUBLICATION_REVIEW.md",
+      "bytes": 2123,
+      "sha256": "92c3a7b3d7646b756019d7b920860d3ad39f333551c90bd10be7a9957d150e7f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2779,
+      "sha256": "6cd2263026a4e8035c776f9592028b3cf536db19d996466fd08d772dfd9f4a6d"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 500,
+      "sha256": "f28526d22504338cacc84e167e568c23d7a26eab0120a2106744d3dc40da3e79"
+    }
+  ]
+}
