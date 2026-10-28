@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-28",
+  "scope": "Files added/edited for the applied-case supplement; not a full repository/history audit",
+  "case_pairs": 7,
+  "full_text_audit_complete": false,
+  "clinical_validation": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 3542,
+      "sha256": "8ca437d0cb98fa6207b158e91dfaa8c87998bca19dde6f6ffa41065edf0e9f75"
+    },
+    {
+      "path": "APPLIED_CASES.md",
+      "bytes": 14965,
+      "sha256": "9cdfb3e2e5dbf0d2a1193c89560096d25556bee4642637e3cb4919e339ab5a1a"
+    },
+    {
+      "path": "EXAMPLE_SOURCE_AUDIT.json",
+      "bytes": 7679,
+      "sha256": "15af0ba0fe04b44e155f35981187111db0b95cc58cb143fa5b1d797d67ec10ee"
+    },
+    {
+      "path": "ANESTHESIA_OPTIONS_AND_CASES.md",
+      "bytes": 24999,
+      "sha256": "df94e6f475bacafafb9e9dea7ce3612545b59e7cde18f463f9086e33e398a13c"
+    },
+    {
+      "path": "SHARED_SOURCE_AUDIT.json",
+      "bytes": 4088,
+      "sha256": "7e6b4417f53571ef052e3fbe5b993fcab3af84a04d544b91b30191f743ee28d4"
+    },
+    {
+      "path": "CASE_EXAMPLE_STANDARD.md",
+      "bytes": 2519,
+      "sha256": "82ee781bc5ed0dc9edee2fb607f2a877d3cdc151bf982d072eac9d999c6de93b"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 989,
+      "sha256": "c27383837a73b137ab5f26c22e15d190da7ef495f11eae675ae5ad98b324e6d2"
+    }
+  ]
+}
