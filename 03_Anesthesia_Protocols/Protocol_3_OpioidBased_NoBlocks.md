@@ -185,7 +185,7 @@ Modified Aldrete ≥9 [S34](../DOSING_SOURCES.md#s34) is necessary, not sufficie
 
 ## Scores used (validation papers)
 - **Apfel** [S9](../DOSING_SOURCES.md#s9): 0–4 factors → ~10%, 21%, 39%, 61%, 79%.
-- **STOP-Bang** [S32](../DOSING_SOURCES.md#s32), [S33](../DOSING_SOURCES.md#s33): items as in [01 §5.3](../01_PreOp_Assessment_and_Checklist.md#53-osa-screen--stop-bang); categories 0–2 / 3–4 / 5–8 [S33](../DOSING_SOURCES.md#s33).
+- **STOP-Bang** [S32](../DOSING_SOURCES.md#s32), [S33](../DOSING_SOURCES.md#s33): items as in [01 §5.3](../01_PreOp_Assessment_and_Checklist.md#53-osa-screen-stop-bang); categories 0–2 / 3–4 / 5–8 [S33](../DOSING_SOURCES.md#s33).
 - **Modified Aldrete** [S34](../DOSING_SOURCES.md#s34): table in [05](../05_PACU_and_Discharge_Instructions.md#discharge-readiness). The 1-point oxygen item is "needs O₂ to maintain SpO₂ >90%"; the circulation middle band is ±20–49 mmHg [S34](../DOSING_SOURCES.md#s34).
 
 ---

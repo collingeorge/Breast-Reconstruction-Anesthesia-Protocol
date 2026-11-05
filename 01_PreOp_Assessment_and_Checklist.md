@@ -114,7 +114,7 @@ Source: [S9](DOSING_SOURCES.md#s9). One point each:
 
 The Apfel score estimates risk. It does not choose the anesthetic. The fifth consensus also lists other risk factors, such as younger age, volatile anesthetic, nitrous oxide and longer anesthesia [S8](DOSING_SOURCES.md#s8).
 
-### 5.3 OSA screen — STOP-Bang
+### 5.3 OSA screen (STOP-Bang)
 Source: [S32](DOSING_SOURCES.md#s32), [S33](DOSING_SOURCES.md#s33).
 
 Snoring · Tiredness · Observed apnea · high blood Pressure · BMI >35 kg/m² · Age >50 years · Neck circumference >40 cm · male Gender [S32](DOSING_SOURCES.md#s32)
