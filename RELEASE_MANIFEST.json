@@ -8,113 +8,138 @@
   "files": [
     {
       "path": "01_PreOp_Assessment_and_Checklist.md",
-      "bytes": 1428,
-      "sha256": "8df8c2a1c4a7b53dc60395caa51df6b7ff10da518e3de83b800072a6200eb1df"
+      "bytes": 10467,
+      "sha256": "d52c3fc70b56262b8f204acfb7d5f115f910dec2fbd3ed6a71f805916e35a534"
     },
     {
       "path": "02_Patient_Counseling_Script.md",
-      "bytes": 1507,
-      "sha256": "9744856e79c764d2f8f8ac37af56b87dcf65c639878227fbd2039f541ec02aee"
+      "bytes": 6130,
+      "sha256": "1fedc40b19cccd2b080a2b311e2051320e0110ec1ad7c8048ca7a535ee8c0517"
     },
     {
       "path": "03_Anesthesia_Protocols/Protocol_1_OFIA_With_PECS_Block.md",
-      "bytes": 1732,
-      "sha256": "bd6967ddc5e71e8477b16564fdec73f246e29f8a6580239cf5a4302bb561cbc5"
+      "bytes": 16264,
+      "sha256": "5df86effcc93ff68e236f2533866535ba97ae528838ae9a771062e208ae9560c"
     },
     {
       "path": "03_Anesthesia_Protocols/Protocol_2_OFIA_BlockFree.md",
-      "bytes": 1582,
-      "sha256": "c5c6436869913b1d56f94b6ec9aeebd0b6ba23c273dcf29fb42dd1be5104da1f"
+      "bytes": 10193,
+      "sha256": "62062f16bdfdac7b7b21d1314892a026585036d155099521fbaf6f4ada6ab796"
     },
     {
       "path": "03_Anesthesia_Protocols/Protocol_3_OpioidBased_NoBlocks.md",
-      "bytes": 1655,
-      "sha256": "e15433e4c8cbb7e73c345b5ca89f3f301918dd3b9eb093160a4806eab5515fc4"
+      "bytes": 16148,
+      "sha256": "b2be7b04c31397d0872c167cf04b9433ed1bf3249e5e02706b50debf45409b3b"
     },
     {
       "path": "03_Anesthesia_Protocols/Protocol_Comparison_Table.md",
-      "bytes": 1768,
-      "sha256": "d933962988561e29f26d5f29ea0d427fc0c71a79fa7af0dc60c404fbf26a8721"
+      "bytes": 8033,
+      "sha256": "de807f9f18efdac8e9677bb921f51878b2d7d4e3b477a2ade4ae61871b5d632a"
     },
     {
       "path": "03_Anesthesia_Protocols/README.md",
-      "bytes": 1288,
-      "sha256": "546999955d7d112934ee2b46344cef693c464dd4e0ece2041651ce75fe3fb696"
+      "bytes": 2966,
+      "sha256": "a4d15fc038209c72d0387b7cfa44ce3d85b473d4d56f70051c12c241c2cdafd9"
     },
     {
       "path": "04_Surgical_Workflow_and_Timeline.md",
-      "bytes": 1422,
-      "sha256": "9e5affd7656f41f425f7383522f7399562128982f85af2f8d160465f46718aed"
+      "bytes": 7640,
+      "sha256": "801002c44f41d5cc6be51240b22133a1c37a6d9e898067c0e764f1e137932ad5"
     },
     {
       "path": "05_PACU_and_Discharge_Instructions.md",
-      "bytes": 1697,
-      "sha256": "244220b0e5b5c6e33abaeaf9c8272afc13b54c4bb39278c6b728c6042a621157"
+      "bytes": 10111,
+      "sha256": "943ee5b851e9f45ada28e74afb26276b76d0184546787fb9a4758e78eb32cbbe"
     },
     {
       "path": "06_References_Evidence_Breast_Augmentation.md",
-      "bytes": 1704,
-      "sha256": "f16f979d5a0248b7973e65d8337b6137b8baed227b25736686aced2aef2c9c18"
-    },
-    {
-      "path": "CHANGELOG",
-      "bytes": 257,
-      "sha256": "57c4466e8d77da830c5338b66065aa648ef2cefaf932c765ff560d6f6a5f781a"
-    },
-    {
-      "path": "CITATION.cff",
-      "bytes": 531,
-      "sha256": "c88e739f3b125bdacf084827ad55dc59380b45320841abebfe9dd9badee3dc73"
-    },
-    {
-      "path": "HISTORICAL_VERSION_NOTICE.md",
-      "bytes": 467,
-      "sha256": "c35978856d877183e1500d5eb494f1dd0130ac581dc7f0a907cdfab65094128a"
-    },
-    {
-      "path": "LICENSE",
-      "bytes": 880,
-      "sha256": "3cff795b2569866bdc491da3ac03f90b18ee9c5ae6d9708aa2ae7ec32b204370"
-    },
-    {
-      "path": "OR_Checklist_Pre-Induction.md",
-      "bytes": 1255,
-      "sha256": "48047497701e7e4b4f67613891af863e840a4f58b6dd5a5461a7109de15308fa"
-    },
-    {
-      "path": "PROVENANCE.md",
-      "bytes": 1418,
-      "sha256": "e8d321b9ad4f01b4a53b25d5310b57b9c4d2aa14c28bc340a00fb8acfdb5a264"
-    },
-    {
-      "path": "PUBLICATION_REVIEW.md",
-      "bytes": 2570,
-      "sha256": "1675a87385af597a78d6d5914176c1d7041d4239ae1887b8fd47b5f5f854d0f7"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3696,
-      "sha256": "170b382fa32d0d668e585c9c2e6079f3aaa08c257e8744dd721c35b1449b60e1"
-    },
-    {
-      "path": "RELEASE_NOTES.md",
-      "bytes": 1346,
-      "sha256": "8fb5506c27de141b355c794aa67f746df3d01fd23ec91e70fdac551d22791ca0"
-    },
-    {
-      "path": "APPLIED_CASES.md",
-      "bytes": 14965,
-      "sha256": "9cdfb3e2e5dbf0d2a1193c89560096d25556bee4642637e3cb4919e339ab5a1a"
-    },
-    {
-      "path": "EXAMPLE_SOURCE_AUDIT.json",
-      "bytes": 7679,
-      "sha256": "15af0ba0fe04b44e155f35981187111db0b95cc58cb143fa5b1d797d67ec10ee"
+      "bytes": 21025,
+      "sha256": "0779a568c1c1ca8a2dfd54ee96dc0eeca7372eadcda43e1f28cd5128807f6659"
     },
     {
       "path": "ANESTHESIA_OPTIONS_AND_CASES.md",
-      "bytes": 24999,
-      "sha256": "df94e6f475bacafafb9e9dea7ce3612545b59e7cde18f463f9086e33e398a13c"
+      "bytes": 25383,
+      "sha256": "24dbd38d90c999f924c49a9898e14bca1b5716c225eebc02ebac18e56066b5a3"
+    },
+    {
+      "path": "APPLIED_CASES.md",
+      "bytes": 15054,
+      "sha256": "215b8da4fe02960ea84cad419a15cce649c91ff01f1438ee4f3f56e68aff93bc"
+    },
+    {
+      "path": "AUTHORSHIP_AND_REVIEW.md",
+      "bytes": 2907,
+      "sha256": "465444711d60dccf84f84e06c713eb375373ff161a2a84576fc27319c6eeb358"
+    },
+    {
+      "path": "CASE_EXAMPLE_STANDARD.md",
+      "bytes": 2710,
+      "sha256": "48557d603c85bffca81f8abab2a365b92328f79676ebab16bbb1b1a7840c4226"
+    },
+    {
+      "path": "CHANGELOG",
+      "bytes": 1473,
+      "sha256": "c92dc7d16ac30333cf9dfdb3747764e853a46e8029a2c91d301f1d4222c1133b"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 527,
+      "sha256": "a6dc947e468fa197d994dbd5c14299f83b04c6ac8aea5c0be6263f718db68e6b"
+    },
+    {
+      "path": "DISCLAIMER.md",
+      "bytes": 3221,
+      "sha256": "e14559201e03ec7a6d5003c1ada177845f59d1059a0b36c60f467e52045f39be"
+    },
+    {
+      "path": "DOSING_SOURCES.md",
+      "bytes": 36135,
+      "sha256": "b9852f1cfa680ad0146f5e934ce2383e1dbed8be519b8edfd14e50457c7289c2"
+    },
+    {
+      "path": "EXAMPLES_MANIFEST.json",
+      "bytes": 1772,
+      "sha256": "1a23dafe2270377e07f683133d10ab8c66729bdcc9988afd7444e64905c814b7"
+    },
+    {
+      "path": "EXAMPLE_SOURCE_AUDIT.json",
+      "bytes": 7678,
+      "sha256": "6346b36ae6c33d21fce92b7f8887e6e025b761bc0f5b402069f36b82be1c07f9"
+    },
+    {
+      "path": "HISTORICAL_VERSION_NOTICE.md",
+      "bytes": 1428,
+      "sha256": "8e86f7b70a9ee9d46fef734a8185c2583573bc1f7a77e059f4ed731b779650ce"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1056,
+      "sha256": "b5d13307f7a23281f28a2043571f0d27f1b1c7729130646e2533cdc141d71ee0"
+    },
+    {
+      "path": "OR_Checklist_Pre-Induction.md",
+      "bytes": 5410,
+      "sha256": "96aa04b1ec811e570799207dd5993c495216327a42129bfd385e404bab0ebf2a"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 1599,
+      "sha256": "847e8aa6077dda933bb3085417f863f675808b9ccf72592f6d912d14770e3f5e"
+    },
+    {
+      "path": "PUBLICATION_REVIEW.md",
+      "bytes": 2760,
+      "sha256": "3f11528255e218994421cd3611ed897f5d34c34f76381b33e4d6f7c049223c08"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5182,
+      "sha256": "44aabf3d8221a128e1a4ed963237f6f00b0dc7fd88c0b843dacd8a244f95260e"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "bytes": 17610,
+      "sha256": "f912a7970b11a995f02b4860e9c364419f8a54f324fe19b43caf74c181cd6796"
     },
     {
       "path": "SHARED_SOURCE_AUDIT.json",
@@ -122,24 +147,9 @@
       "sha256": "7e6b4417f53571ef052e3fbe5b993fcab3af84a04d544b91b30191f743ee28d4"
     },
     {
-      "path": "CASE_EXAMPLE_STANDARD.md",
-      "bytes": 2519,
-      "sha256": "82ee781bc5ed0dc9edee2fb607f2a877d3cdc151bf982d072eac9d999c6de93b"
-    },
-    {
-      "path": "EXAMPLES_MANIFEST.json",
-      "bytes": 1771,
-      "sha256": "459deb124e4b0ec7bc987b0c79ff2a9b6b8609e14a83be86ae1632d6dbb01e59"
-    },
-    {
       "path": "START_HERE.md",
-      "bytes": 1189,
-      "sha256": "1106102726e369abf12d96731b10fcade3c22551a7d7a12fc5740f2150cd8af7"
-    },
-    {
-      "path": "AUTHORSHIP_AND_REVIEW.md",
-      "bytes": 2309,
-      "sha256": "a15f7aae7a7855282a48ee5444d1885dc89de6a578dd29709b01150c8ecee60e"
+      "bytes": 2189,
+      "sha256": "0186d30c3bf7e3505aa6e1678f68b8ec8cefabb5724467b6694a4bdb9cdcaabf"
     }
   ],
   "supplement": "clinical-applied-cases-2026-10-28",
