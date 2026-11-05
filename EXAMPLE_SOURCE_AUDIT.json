@@ -12,24 +12,24 @@
     },
     {
       "id": "B",
-      "title": "Joshi GP et al. 2026 ASA Practice Guideline on Perioperative Pain Management Using Local and Regional Analgesia for Cardiothoracic Surgeries, Mastectomy, and Abdominal Surgeries. *Anesthesiology*. [10.1097/ALN.0000000000005790](https://doi.org/10.1097/ALN.0000000000005790)",
+      "title": "Joshi GP et al. 2026 ASA Practice Guideline on Perioperative Pain Management Using Local and Regional Analgesia for Cardiothoracic Surgeries, Mastectomy, and Abdominal Surgeries. Anesthesiology. 2026;144:19-43.",
       "doi": "10.1097/ALN.0000000000005790",
       "scope": "Procedure-specific local/regional adjunct recommendations; not sole-anesthetic selection",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "T",
-      "title": "Nimmo AF et al. Guidelines for the safe practice of total intravenous anaesthesia (TIVA). *Anaesthesia*. 2019. [10.1111/anae.14428](https://doi.org/10.1111/anae.14428)",
+      "title": "Nimmo AF et al. Guidelines for the safe practice of total intravenous anaesthesia (TIVA). Anaesthesia. 2019.",
       "doi": "10.1111/anae.14428",
       "scope": "IV delivery and monitoring principles; no validation of Smart NOA",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "A",
-      "title": "Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. *Regional Anesthesia and Pain Medicine*. 2025. [10.1136/rapm-2024-105766](https://doi.org/10.1136/rapm-2024-105766)",
+      "title": "Kopp SL et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy, fifth edition. Regional Anesthesia and Pain Medicine. 2025.",
       "doi": "10.1136/rapm-2024-105766",
       "scope": "Drug/dose/route-specific bleeding-risk guidance; no individualized timing supplied here",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "BREAST",
@@ -40,10 +40,10 @@
     },
     {
       "id": "X",
-      "title": "Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. *Regional Anesthesia and Pain Medicine*. 2021. [10.1136/rapm-2020-101986](https://doi.org/10.1136/rapm-2020-101986)",
+      "title": "Neal JM, Neal EJ, Weinberg GL. ASRA Local Anesthetic Systemic Toxicity checklist: 2020 version. Regional Anesthesia and Pain Medicine. 2021.",
       "doi": "10.1136/rapm-2020-101986",
       "scope": "Published toxicity response resource, not reproduced or replaced by this guide",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "LIDO",
@@ -54,10 +54,10 @@
     },
     {
       "id": "P",
-      "title": "Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. *Anesthesiology*. 2021. [10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725)",
+      "title": "Beloeil H et al. Balanced Opioid-free Anesthesia with Dexmedetomidine versus Balanced Anesthesia with Remifentanil. Anesthesiology. 2021.",
       "doi": "10.1097/ALN.0000000000003725",
       "scope": "Randomized evidence against assuming universal safety benefit from avoiding intraoperative opioids; did not test this software",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "DEX",
@@ -75,17 +75,17 @@
     },
     {
       "id": "N",
-      "title": "ASA Task Force. 2023 Practice Guidelines for Monitoring and Antagonism of Neuromuscular Blockade. *Anesthesiology*. [10.1097/ALN.0000000000004379](https://doi.org/10.1097/ALN.0000000000004379)",
+      "title": "Thilen SR, Weigel WA, Todd MM, et al. 2023 American Society of Anesthesiologists Practice Guidelines for Monitoring and Antagonism of Neuromuscular Blockade. Anesthesiology. 2023;138(1):13-41.",
       "doi": "10.1097/ALN.0000000000004379",
       "scope": "Quantitative monitoring and antagonist selection",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "S",
-      "title": "ASA and collaborating societies. Practice Guidelines for Moderate Procedural Sedation and Analgesia 2018. *Anesthesiology*. [10.1097/ALN.0000000000002043](https://doi.org/10.1097/ALN.0000000000002043)",
+      "title": "ASA and collaborating societies. Practice Guidelines for Moderate Procedural Sedation and Analgesia 2018. Anesthesiology.",
       "doi": "10.1097/ALN.0000000000002043",
       "scope": "Moderate-sedation assessment, monitoring and rescue context; not a deep-sedation recipe",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     },
     {
       "id": "QOR",
@@ -96,10 +96,10 @@
     },
     {
       "id": "M",
-      "title": "Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. *Anaesthesia*. [10.1111/anae.15501](https://doi.org/10.1111/anae.15501)",
+      "title": "Klein AA et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021. Anaesthesia.",
       "doi": "10.1111/anae.15501",
       "scope": "UK/Ireland monitoring guidance; jurisdiction and setting matter",
-      "checked": "See ANESTHESIA_OPTIONS_AND_CASES.md for source title, scope and source-type mapping"
+      "checked": "Publisher/PubMed identity checked (DOI); cross-reference SHARED_SOURCE_AUDIT.json entry with the same ID; not an exhaustive full-text appraisal"
     }
   ],
   "cases": [
@@ -154,7 +154,7 @@
       "topic": "Counseling and patient understanding",
       "sources": [
         "ERAS",
-        "N",
+        "T",
         "S"
       ]
     },
