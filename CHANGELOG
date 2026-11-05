@@ -1,5 +1,17 @@
 # Changelog
 
+See RELEASE_NOTES.md for full detail.
+
+## November 2026 — sourced educational dosing reference
+- Restored operational dosing content (modules 01, 02, 04, 05, 06, 03_Anesthesia_Protocols/*, OR_Checklist_Pre-Induction.md) from a citation-audited v2.0 draft; live filenames kept.
+- Added DOSING_SOURCES.md (registry S1–S39). Every dose, rate, maximum, interval, threshold or timing is tagged to a guideline, FDA label or score-validation paper.
+- Changed values that disagreed with their source (e.g., propofol, rocuronium, neostigmine, phenylephrine, glycopyrrolate, naloxone, ibuprofen, promethazine, scopolamine, Apfel percentages, Aldrete oxygen item). Deleted values with no verifiable acceptable source (e.g., block volumes, mg/kg local-anesthetic ceilings, fentanyl infusion rates, PACU opioid intervals, home-care timings, irrigation recipe).
+- Kept rc2 corrections: no IV lidocaine with blocks or infiltration; no universal ranking of approaches.
+- Updated PONV references to the fifth consensus (2025), ASRA antithrombotic to Kopp 2025, and added the 2026 ASA local/regional analgesia guideline.
+
+## 2026.10-rc2 — October 2026
+- Replaced dosing documents with discussion modules; see RELEASE_NOTES.md.
+
 ## Version 1.0 — December 8, 2025
 - Initial release of full perioperative workflow
 - Added pre-op checklist, intra-op workflow, PACU templates

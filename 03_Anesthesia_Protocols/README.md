@@ -1,20 +1,24 @@
-# Analgesic strategy discussion modules
+# Analgesic approaches — educational dosing reference
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 
-These historical filenames are retained for link compatibility. The documents are educational comparisons, not protocols or treatment pathways.
+This folder holds three structured educational examples of anesthetic and analgesic approaches for **post-mastectomy breast implant revision**, plus a comparison. The historical filenames ("Protocol_…", "OFIA") are kept so existing links keep working. These documents are **not** clinical protocols or treatment pathways.
 
-- [Regional analgesia](Protocol_1_OFIA_With_PECS_Block.md)
-- [Systemic multimodal approach](Protocol_2_OFIA_BlockFree.md)
-- [Opioid-inclusive approach](Protocol_3_OpioidBased_NoBlocks.md)
-- [Evidence comparison framework](Protocol_Comparison_Table.md)
+**Numbers.** The documents include doses, rates, maxima, intervals and thresholds. Each one is tagged, e.g. [S14](../DOSING_SOURCES.md#s14), to a society guideline, consensus statement, FDA label or score-validation paper listed in [DOSING_SOURCES.md](../DOSING_SOURCES.md). The values are **illustrative**. They show what the source states, are not validated for this procedure, and must be individualized by the treating clinician under institutional policy. Off-label uses are marked.
 
-The numbering does not imply preference or an escalation sequence.
+| File | Approach | Main features |
+|---|---|---|
+| [Protocol_1_OFIA_With_PECS_Block.md](Protocol_1_OFIA_With_PECS_Block.md) | 1 — regional block (PECS/serratus) + multimodal GA | Block-related early analgesia; one local-anesthetic budget; no IV lidocaine with blocks |
+| [Protocol_2_OFIA_BlockFree.md](Protocol_2_OFIA_BlockFree.md) | 2 — systemic multimodal GA, no block | Surgeon infiltration as foundation; IV lidocaine not combined with infiltration; avoid sedative stacking |
+| [Protocol_3_OpioidBased_NoBlocks.md](Protocol_3_OpioidBased_NoBlocks.md) | 3 — opioid-inclusive balanced GA | Opioid stewardship, label-based rescue and naloxone values, PONV prophylaxis |
+| [Protocol_Comparison_Table.md](Protocol_Comparison_Table.md) | Comparison | Side-by-side features, adjunct dose summary, selection considerations |
+
+**The numbering does not imply preference or an escalation sequence.** No approach is universally superior. Avoiding intraoperative opioids does not by itself establish greater safety (POFA trial). The block, not the opioid-free anesthetic, carries most of the evidence-supported analgesic benefit in breast surgery.
 
 ## Sources and limits
-
-- [Foo et al., 2021: IV lidocaine consensus](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/abs/10.1111/anae.15270).
-- [Beloeil et al., 2021: POFA randomized trial](https://pubs.asahq.org/anesthesiology/article-pdf/134/4/541/512443/20210400.0-00011.pdf).
-- [Verret et al., 2020: perioperative gabapentinoid meta-analysis](https://pubmed.ncbi.nlm.nih.gov/32667154/).
-
-These sources do not validate an implant-revision-specific regimen. Source-specific populations, comparators, follow-up, and adverse effects must be checked before generalization.
+- Dose sources: [DOSING_SOURCES.md](../DOSING_SOURCES.md).
+- Evidence base and certainty judgments: [06 — References & Evidence](../06_References_Evidence_Breast_Augmentation.md). Key sources:
+  - Foo et al. 2021, IV lidocaine consensus ([doi:10.1111/anae.15270](https://doi.org/10.1111/anae.15270));
+  - Beloeil et al. 2021, POFA RCT ([doi:10.1097/ALN.0000000000003725](https://doi.org/10.1097/ALN.0000000000003725));
+  - Joshi et al. 2026, ASA local/regional analgesia guideline ([doi:10.1097/ALN.0000000000005790](https://doi.org/10.1097/ALN.0000000000005790)).
+- These sources do not validate an implant-revision-specific regimen. Check each source's population, comparator, follow-up and adverse effects before generalizing.
