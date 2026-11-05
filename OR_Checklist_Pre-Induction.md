@@ -1,7 +1,6 @@
 # Pre-induction workflow: observation prompts
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 Observe how the team verifies identity, procedure, consent, allergies, equipment readiness, monitoring, airway planning, anticipated risks, and communication responsibilities using its approved processes.
 
 These are questions for an observer, not an operational checklist. Do not prepare drugs, manipulate equipment, or participate in patient care based on this document. No medication preparation list or doses are supplied.

@@ -1,7 +1,6 @@
 # Opioid-inclusive multimodal analgesia: discussion module
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 Opioids can be one component of individualized perioperative analgesia. Their use is not necessarily evidence that a preferred strategy failed, and chronic opioid exposure does not by itself dictate one anesthetic approach.
 
 Respiratory depression, oversedation, nausea, and persistent use are relevant risks. Patient factors, coadministered sedatives, and the recovery environment matter. Pulse oximetry can remain reassuring during hypoventilation when supplemental oxygen is present.

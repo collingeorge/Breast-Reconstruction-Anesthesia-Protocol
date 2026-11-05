@@ -1,7 +1,6 @@
 # Surgical workflow: concepts for observation
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 Implant revision is not one standardized operation. Indication, reconstruction type, prior radiation, tissue quality, infection concerns, and implant-related complications change the surgical assessment.
 
 Learning questions include how teams coordinate positioning, sterility, implant identification, communication, and recovery planning. This portfolio does not prescribe capsulectomy extent, irrigation solutions, implant selection, or a procedural timeline. Suspected implant-associated malignancy requires specialist evaluation rather than extrapolation from a cosmetic revision workflow.

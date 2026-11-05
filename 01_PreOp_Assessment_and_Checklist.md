@@ -1,7 +1,6 @@
 # Preoperative assessment: learning questions
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 How do procedure extent, prior radiation, comorbidities, existing analgesic use, airway assessment, and patient preferences influence a clinician’s assessment?
 
 What are the separate roles of the surgeon and anesthesia team in informed consent? Why do medication reconciliation, allergy characterization, and review of current institutional fasting and anticoagulation guidance matter?

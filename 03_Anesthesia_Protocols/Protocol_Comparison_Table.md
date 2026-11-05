@@ -1,7 +1,6 @@
 # Comparing analgesic strategies: an evidence-reading framework
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 | Domain | Questions to ask of each study |
 |---|---|
 | Population | Augmentation, oncologic surgery, implant revision, or autologous reconstruction? |

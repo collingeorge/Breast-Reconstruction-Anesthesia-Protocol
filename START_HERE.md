@@ -1,5 +1,7 @@
 # Breast perioperative learning — reader’s guide
 
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
+
 Updated 29 October 2026. Perioperative learning modules and paired synthetic cases with source and applicability notes.
 
 ## Read in this order

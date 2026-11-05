@@ -1,7 +1,6 @@
 # Evidence and citation audit
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 The previous bibliography contained abbreviated and insufficiently specified references and unsupported blanket conclusions. It is superseded by the following limited source set for the safety corrections in this revision. It is not a comprehensive breast reconstruction review.
 
 ## Sources and limits

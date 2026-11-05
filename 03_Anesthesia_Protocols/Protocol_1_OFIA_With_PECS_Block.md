@@ -1,7 +1,6 @@
 # Regional analgesia with multimodal care: discussion module
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 Pectoral and related fascial plane blocks are procedure-dependent analgesic techniques. Published evidence from one breast surgery population should not be treated as proof of superiority in all implant revision procedures. Incomplete coverage and block-related harms remain possible.
 
 This module does not rank blocks above all alternative strategies and does not provide injection technique, local anesthetic dose, adjuvant dose, or a rescue algorithm.

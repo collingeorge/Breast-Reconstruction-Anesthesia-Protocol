@@ -1,6 +1,6 @@
 # Breast reconstruction perioperative learning portfolio
 
-[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
+[Reader’s guide](START_HERE.md) · [Authorship & review status](AUTHORSHIP_AND_REVIEW.md) · [Disclaimer](DISCLAIMER.md) · [Portfolio home](https://collingeorge.github.io/CM-2026/)
 
 
 ## Applied clinical examples — 28 October 2026
@@ -12,8 +12,7 @@
 These additions use a consistent educational format and source documentation; they do not certify clinical correctness, guideline compliance or patient-care suitability. Existing manuscript/PDF content is retained.
 
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 This repository studies perioperative care in implant revision and breast reconstruction. Its historical repository name contains “Protocol”; the current materials are educational discussion modules. They do not establish a preferred anesthetic regimen or a surgical standard. Evidence from primary oncologic breast surgery, augmentation, implant revision, and autologous reconstruction must be distinguished.
 
 ## Contents
@@ -34,7 +33,7 @@ IV lidocaine and local anesthetic blocks/infiltration are not interchangeable or
 
 The previous operational dose tables, fixed discharge rules, and universal first/second/third-line hierarchy have been replaced by conceptual learning material. See [PUBLICATION_REVIEW.md](PUBLICATION_REVIEW.md) for the remaining review requirements, including Git history.
 
-Author: Collin B. George, BS. Independent educational portfolio; no institutional endorsement is claimed.
+Author: Collin B. George, pre-medical student. Independent educational portfolio; no institutional endorsement is claimed.
 
 License: CC BY 4.0, as stated in [LICENSE](LICENSE). This grants rights in the author's original content only; third-party works retain their own terms. A copyright license is not clinical approval.
 

@@ -1,7 +1,6 @@
 # Recovery and discharge: educational concepts
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 Recovery assessment includes ventilation as well as oxygenation, alertness, hemodynamic status, pain, nausea, bleeding concerns, and the patient’s expected support needs. Supplemental oxygen can mask hypoventilation on pulse oximetry; oxygen saturation alone is not a ventilation assessment.
 
 A recovery score summarizes selected observations. It is not an independent authorization for home discharge. Timing and observation needs depend on the procedure, patient, administered medicines, respiratory events, and the responsible clinical team.

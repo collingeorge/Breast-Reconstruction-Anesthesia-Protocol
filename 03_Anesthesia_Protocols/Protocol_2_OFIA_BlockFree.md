@@ -1,7 +1,6 @@
 # Systemic multimodal analgesia without a block: discussion module
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 A block-free approach can still include local anesthetic infiltration, so “block-free” does not mean absence of local anesthetic overlap. IV lidocaine must not be treated as automatically compatible with surgeon infiltration merely because a formal nerve block is absent.
 
 Multimodal combinations have their own adverse effects and interactions. Dexmedetomidine, ketamine, lidocaine, acetaminophen, NSAIDs, and opioids are not universally appropriate or interchangeable. A non-opioid label is not evidence of safety.

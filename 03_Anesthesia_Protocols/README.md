@@ -1,7 +1,6 @@
 # Analgesic strategy discussion modules
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](../DISCLAIMER.md).
 These historical filenames are retained for link compatibility. The documents are educational comparisons, not protocols or treatment pathways.
 
 - [Regional analgesia](Protocol_1_OFIA_With_PECS_Block.md)

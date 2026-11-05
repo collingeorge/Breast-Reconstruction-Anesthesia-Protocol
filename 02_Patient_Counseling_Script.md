@@ -1,7 +1,6 @@
 # Perioperative communication: educational analysis
 
-> Independent educational work. Not a clinical protocol, prescription, patient handout, or validated decision aid. This revision is a draft pending clinical and publication review.
-
+> **Educational work by a pre-medical student — not medical advice.** Not a clinical protocol, prescription, or patient handout, and not for patient care. See [DISCLAIMER](DISCLAIMER.md).
 A useful counseling discussion distinguishes expected discomfort, uncertainty, available analgesic approaches, alternatives, and important adverse effects. Patients should be able to ask questions and express preferences without being promised an opioid-free recovery.
 
 Teach-back checks understanding. It is not a substitute for individualized informed consent. Discussion of blocks should include their limitations and the possibility of incomplete analgesia; discussion of opioids should include both their role in adequate analgesia and their risks.
