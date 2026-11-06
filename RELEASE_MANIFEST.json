@@ -53,8 +53,8 @@
     },
     {
       "path": "06_References_Evidence_Breast_Augmentation.md",
-      "bytes": 21025,
-      "sha256": "0779a568c1c1ca8a2dfd54ee96dc0eeca7372eadcda43e1f28cd5128807f6659"
+      "bytes": 21377,
+      "sha256": "269033933e6bf66b28bb5c5e905d0bebd3e0ef0441f7da9275d0b26647ce4f19"
     },
     {
       "path": "ANESTHESIA_OPTIONS_AND_CASES.md",
@@ -78,8 +78,8 @@
     },
     {
       "path": "CHANGELOG",
-      "bytes": 1473,
-      "sha256": "c92dc7d16ac30333cf9dfdb3747764e853a46e8029a2c91d301f1d4222c1133b"
+      "bytes": 1913,
+      "sha256": "49786514467d4f5ecdee358d7adab7a175dba51311d9e4c4a797fa3f9ffff969"
     },
     {
       "path": "CITATION.cff",
@@ -93,8 +93,8 @@
     },
     {
       "path": "DOSING_SOURCES.md",
-      "bytes": 36135,
-      "sha256": "b9852f1cfa680ad0146f5e934ce2383e1dbed8be519b8edfd14e50457c7289c2"
+      "bytes": 38291,
+      "sha256": "83b96bf7728a00da60d750473c69eca7c6f76a0ee26b15ddeade4efc29bc9775"
     },
     {
       "path": "EXAMPLES_MANIFEST.json",

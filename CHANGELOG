@@ -2,6 +2,10 @@
 
 See RELEASE_NOTES.md for full detail.
 
+## 6 November 2026 — source link fixes
+- S38 / reference 40: the FDA bacitracin-for-injection announcement page is no longer available; cited FDA's September 2022 Federal Register determination (Docket FDA-2020-N-2143) as the current record. Claims unchanged.
+- S24: replaced the Mallinckrodt-hosted OFIRMEV PI link with the DailyMed label (set ID c5177abd-9465-40d8-861d-3904496d82b7); the FDA 2010 label link is kept. Doses unchanged.
+
 ## November 2026 — sourced educational dosing reference
 - Restored operational dosing content (modules 01, 02, 04, 05, 06, 03_Anesthesia_Protocols/*, OR_Checklist_Pre-Induction.md) from a citation-audited v2.0 draft; live filenames kept.
 - Added DOSING_SOURCES.md (registry S1–S39). Every dose, rate, maximum, interval, threshold or timing is tagged to a guideline, FDA label or score-validation paper.
