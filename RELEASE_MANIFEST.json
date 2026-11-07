@@ -78,8 +78,8 @@
     },
     {
       "path": "CHANGELOG",
-      "bytes": 1913,
-      "sha256": "49786514467d4f5ecdee358d7adab7a175dba51311d9e4c4a797fa3f9ffff969"
+      "bytes": 2300,
+      "sha256": "f2738f07d758d8e50bc77a34ec0feb4a31ab699e2fe32e2bfc61359bbc9fe00a"
     },
     {
       "path": "CITATION.cff",
@@ -93,8 +93,8 @@
     },
     {
       "path": "DOSING_SOURCES.md",
-      "bytes": 38291,
-      "sha256": "83b96bf7728a00da60d750473c69eca7c6f76a0ee26b15ddeade4efc29bc9775"
+      "bytes": 39300,
+      "sha256": "3c76585d5047ffb01b259fe06f87f28750cb53d8eb3bffc946a08e1399b6a602"
     },
     {
       "path": "EXAMPLES_MANIFEST.json",

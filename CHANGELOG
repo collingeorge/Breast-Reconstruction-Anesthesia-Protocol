@@ -1,3 +1,8 @@
+2026-11-07
+- DOSING_SOURCES S38 (bacitracin) and OFIRMEV: checked against the full Federal Register document and DailyMed label.
+  Replaced the unsupported "topical and ophthalmic bacitracin are not affected" with "covers bacitracin for injection only";
+  tied "other effective treatments" to the labelled indication; OFIRMEV contraindication and caution wording now matches the label.
+
 # Changelog
 
 See RELEASE_NOTES.md for full detail.
