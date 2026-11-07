@@ -1,11 +1,10 @@
-2026-11-07
-- DOSING_SOURCES S38 (bacitracin) and OFIRMEV: checked against the full Federal Register document and DailyMed label.
-  Replaced the unsupported "topical and ophthalmic bacitracin are not affected" with "covers bacitracin for injection only";
-  tied "other effective treatments" to the labelled indication; OFIRMEV contraindication and caution wording now matches the label.
-
 # Changelog
 
 See RELEASE_NOTES.md for full detail.
+
+## 7 November 2026 — full-page source checks
+- S38 / reference 40 (bacitracin): checked against the full Federal Register document. The notice does not mention topical or ophthalmic bacitracin, so that sentence now reads "covers bacitracin for injection only"; "other effective treatments" is tied to the labelled indication, as in the notice.
+- S24 (OFIRMEV): checked against the full DailyMed label. Doses confirmed; contraindication and caution wording now matches the label.
 
 ## 6 November 2026 — source link fixes
 - S38 / reference 40: the FDA bacitracin-for-injection announcement page is no longer available; cited FDA's September 2022 Federal Register determination (Docket FDA-2020-N-2143) as the current record. Claims unchanged.
